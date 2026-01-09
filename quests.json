@@ -23917,7 +23917,7 @@
       "tasks": {
         "PLAY_ON_DESKTOP": {
           "event_name": "PLAY_ON_DESKTOP",
-          "target": 1800,
+          "target": 900,
           "external_ids": []
         }
       }
@@ -23926,7 +23926,7 @@
       "tasks": {
         "PLAY_ON_DESKTOP": {
           "type": "PLAY_ON_DESKTOP",
-          "target": 1800,
+          "target": 900,
           "applications": [
             {
               "id": "1238113262969557002"
