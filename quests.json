@@ -25382,6 +25382,7 @@
     }
   },
   "1461427517775675493": {
+    "id": "1461427517775675493",
     "config_version": 2,
     "starts_at": "2026-01-19T18:00:12+00:00",
     "expires_at": "2026-01-26T07:59:12+00:00",
@@ -25418,6 +25419,11 @@
       "type": 1,
       "join_operator": "or",
       "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 90,
+          "external_ids": []
+        },
         "WATCH_VIDEO_ON_MOBILE": {
           "event_name": "WATCH_VIDEO_ON_MOBILE",
           "target": 90,
@@ -25427,6 +25433,35 @@
     },
     "task_config_v2": {
       "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 90,
+          "assets": {
+            "video": {
+              "url": "quests/1461427517775675493/1463271240130105535_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
+            },
+            "video_low_res": {
+              "url": "quests/1461427517775675493/1463271240130105535_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
+            },
+            "video_hls": {
+              "url": "quests/1461427517775675493/1463271240130105535.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1461427517775675493/1461438395841773699.png"
+            }
+          },
+          "messages": {
+            "video_title": "Return to Silent Hill Trailer",
+            "video_end_cta_title": "",
+            "video_end_cta_subtitle": ""
+          }
+        },
         "WATCH_VIDEO_ON_MOBILE": {
           "type": "WATCH_VIDEO_ON_MOBILE",
           "target": 90,
@@ -25492,10 +25527,10 @@
         "video_end_cta_button_label": "Get Tickets"
       },
       "assets": {
-        "video_player_video_hls": "quests/1461427517775675493/1461430982946066432.m3u8",
-        "video_player_video": "quests/1461427517775675493/1461430982946066432_1080.mp4",
+        "video_player_video_hls": "quests/1461427517775675493/1463271240130105535.m3u8",
+        "video_player_video": "quests/1461427517775675493/1463271240130105535_1080.mp4",
         "video_player_thumbnail": "quests/1461427517775675493/1461438395841773699.png",
-        "video_player_video_low_res": "quests/1461427517775675493/1461430982946066432_720.mp4",
+        "video_player_video_low_res": "quests/1461427517775675493/1463271240130105535_720.mp4",
         "video_player_caption": null,
         "video_player_transcript": null,
         "quest_bar_preview_video": null,
