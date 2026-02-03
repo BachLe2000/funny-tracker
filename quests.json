@@ -26099,7 +26099,7 @@
     "id": "1461811893827010745",
     "config_version": 2,
     "starts_at": "2026-01-22T18:00:34+00:00",
-    "expires_at": "2026-01-30T00:00:34+00:00",
+    "expires_at": "2026-02-08T07:59:34+00:00",
     "features": [
       15
     ],
@@ -26111,6 +26111,7 @@
     "assets": {
       "hero": "quests/1461811893827010745/1463618097830432990.jpg",
       "hero_video": "quests/1461811893827010745/1463618171323023471.mp4",
+      "quest_bar_hero_blurhash": null,
       "quest_bar_hero": "quests/1461811893827010745/1463617905815191774.jpg",
       "quest_bar_hero_video": "quests/1461811893827010745/1463618000530706442.mp4",
       "game_tile": "1461814041747001416.png",
@@ -26170,7 +26171,7 @@
           "orb_quantity": 700
         }
       ],
-      "rewards_expire_at": "2026-03-01T00:00:34+00:00",
+      "rewards_expire_at": "2026-03-10T07:59:34+00:00",
       "platforms": [
         0
       ]
