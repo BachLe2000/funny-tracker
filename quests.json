@@ -27987,7 +27987,7 @@
     "id": "1468005693570154628",
     "config_version": 2,
     "starts_at": "2026-02-05T18:00:31+00:00",
-    "expires_at": "2026-02-15T00:00:31+00:00",
+    "expires_at": "2026-02-16T00:00:31+00:00",
     "features": [
       15
     ],
@@ -28074,10 +28074,11 @@
               "0": "PLACEHOLDER"
             }
           },
-          "orb_quantity": 700
+          "orb_quantity": 700,
+          "premium_orb_quantity": 0
         }
       ],
-      "rewards_expire_at": "2026-03-17T00:00:31+00:00",
+      "rewards_expire_at": "2026-03-18T00:00:31+00:00",
       "platforms": [
         0
       ]
