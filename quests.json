@@ -30096,5 +30096,111 @@
       "button_label": "Watch Now",
       "subtitle": "Lee Cronin's The Mummy in theaters April 17"
     }
+  },
+  "1469018683555840299": {
+    "config_version": 2,
+    "starts_at": "2026-02-18T22:10:47+00:00",
+    "expires_at": "2026-02-27T00:00:47+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://tv.apple.com/gb/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=GB&mttnsiteid=143238&mttnsubad=06612781",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1469018683555840299/1471236319555354857.jpg",
+      "hero_video": "quests/1469018683555840299/1469019331705831606.mp4",
+      "quest_bar_hero_blurhash": "WbcJCoJIdUqPZ6iIa4UwUAk=",
+      "quest_bar_hero": "quests/1469018683555840299/1471236319555354857.jpg",
+      "quest_bar_hero_video": "quests/1469018683555840299/1469019331705831606.mp4",
+      "game_tile": "1469019674988773547.png",
+      "logotype": "1471235641097453729.png",
+      "game_tile_light": "quests/1469018683555840299/1469019562875031563.png",
+      "game_tile_dark": "quests/1469018683555840299/1469019499964662073.png",
+      "logotype_light": "quests/1469018683555840299/1471235618536296695.png",
+      "logotype_dark": "quests/1469018683555840299/1471235618536296695.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Monarch Season 2",
+      "game_title": "New season 27 Feb on Apple TV",
+      "game_publisher": "Apple TV"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO_ON_MOBILE": {
+          "event_name": "WATCH_VIDEO_ON_MOBILE",
+          "target": 146,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 146,
+          "assets": {
+            "video": {
+              "url": "quests/1469018683555840299/1469019821659390094_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1469018683555840299/1471236426715762860.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1469018683555840299/1469019821659390094_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1469018683555840299/1471236426715762860.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1469018683555840299/1469019821659390094.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1469018683555840299/1471236426715762860.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "placeholder"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": 0
+        }
+      ],
+      "rewards_expire_at": "2026-03-29T00:00:47+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "not_shareable",
+    "cta_config": {
+      "link": "https://tv.apple.com/gb/show/monarch-legacy-of-monsters/umc.cmc.62l8x0ixrhyq3yaqa5y8yo7ew?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=GB&mttnsiteid=143238&mttnsubad=06612781",
+      "button_label": "Learn More",
+      "subtitle": "New season 27 Feb on Apple TV"
+    }
   }
 }
