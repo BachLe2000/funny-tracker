@@ -29148,7 +29148,7 @@
   "1468777737341763815": {
     "config_version": 2,
     "starts_at": "2026-02-16T18:00:21+00:00",
-    "expires_at": "2026-02-27T00:00:21+00:00",
+    "expires_at": "2026-02-27T01:59:21+00:00",
     "features": [
       15
     ],
@@ -29239,28 +29239,10 @@
           "premium_orb_quantity": 0
         }
       ],
-      "rewards_expire_at": "2026-03-29T00:00:21+00:00",
+      "rewards_expire_at": "2026-03-29T01:59:21+00:00",
       "platforms": [
         0
       ]
-    },
-    "video_metadata": {
-      "messages": {
-        "video_title": "placeholder",
-        "video_end_cta_subtitle": "New Season Feb 27 on Apple TV",
-        "video_end_cta_button_label": "Learn More"
-      },
-      "assets": {
-        "video_player_video_hls": "quests/1468777737341763815/1469002495954129143.m3u8",
-        "video_player_video": "quests/1468777737341763815/1469002495954129143_1080.mp4",
-        "video_player_thumbnail": "quests/1468777737341763815/1470470621489008732.jpg",
-        "video_player_video_low_res": "quests/1468777737341763815/1469002495954129143_720.mp4",
-        "video_player_caption": null,
-        "video_player_transcript": null,
-        "quest_bar_preview_video": null,
-        "quest_bar_preview_thumbnail": null,
-        "quest_home_video": null
-      }
     },
     "share_policy": "not_shareable",
     "cta_config": {
