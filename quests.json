@@ -31653,7 +31653,7 @@
     "id": "1474479946717204531",
     "config_version": 2,
     "starts_at": "2026-02-27T22:00:53+00:00",
-    "expires_at": "2026-03-09T06:00:53+00:00",
+    "expires_at": "2026-02-28T00:30:53+00:00",
     "features": [
       15
     ],
@@ -31744,7 +31744,7 @@
           "premium_orb_quantity": 0
         }
       ],
-      "rewards_expire_at": "2026-04-08T06:00:53+00:00",
+      "rewards_expire_at": "2026-03-30T00:30:53+00:00",
       "platforms": [
         0
       ]
