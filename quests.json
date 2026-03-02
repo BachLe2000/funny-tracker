@@ -32140,5 +32140,147 @@
       "button_label": "Pre-Order Now",
       "subtitle": "Coming March 5 – Pre-order now. Available on PS5, Xbox and Steam."
     }
+  },
+  "1475549063108890664": {
+    "id": "1475549063108890664",
+    "config_version": 2,
+    "starts_at": "2026-03-02T17:50:11+00:00",
+    "expires_at": "2026-03-09T00:00:11+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "http://www.fandango.com/thebridemovie",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1475549063108890664/1475993452411097159.jpg",
+      "hero_video": "quests/1475549063108890664/1476733457072783520.mp4",
+      "quest_bar_hero_blurhash": "h+cFCoIG2kR7hTq4Bnp1kFc=",
+      "quest_bar_hero": "quests/1475549063108890664/1475993452411097159.jpg",
+      "quest_bar_hero_video": "quests/1475549063108890664/1476733457072783520.mp4",
+      "game_tile": "1475993594895532133.png",
+      "logotype": "1476731354279317614.png",
+      "game_tile_light": "quests/1475549063108890664/1475993571466281082.png",
+      "game_tile_dark": "quests/1475549063108890664/1475993571466281082.png",
+      "logotype_light": "quests/1475549063108890664/1476731263208653092.png",
+      "logotype_dark": "quests/1475549063108890664/1476731263208653092.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "THE BRIDE!",
+      "game_title": "THE BRIDE! only in theaters this Friday 3/6",
+      "game_publisher": "Warner Bros. Pictures"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "WATCH_VIDEO": {
+          "event_name": "WATCH_VIDEO",
+          "target": 29,
+          "external_ids": []
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "event_name": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1475549063108890664/1476732092518891666_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1475549063108890664/1476732092518891666_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1475549063108890664/1476732092518891666.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Bride Video"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1475549063108890664/1476732180041437474_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1475549063108890664/1476732180041437474_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1475549063108890664/1476732180041437474.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Bride Video"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1476982305900990485",
+          "asset": "quests/1475549063108890664/1476982970765148201.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "THE BRIDE! Avatar Decoration",
+            "name_with_article": "THE BRIDE! Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-05-08T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-04-08T00:00:11+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "http://www.fandango.com/thebridemovie",
+      "button_label": "Get Tickets",
+      "subtitle": "THE BRIDE! only in theaters this Friday 3/6"
+    }
   }
 }
