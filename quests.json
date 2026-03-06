@@ -32161,11 +32161,11 @@
       "quest_bar_hero": "quests/1475549063108890664/1475993452411097159.jpg",
       "quest_bar_hero_video": "quests/1475549063108890664/1476733457072783520.mp4",
       "game_tile": "1475993594895532133.png",
-      "logotype": "1476731354279317614.png",
+      "logotype": "1479538500847276155.png",
       "game_tile_light": "quests/1475549063108890664/1475993571466281082.png",
       "game_tile_dark": "quests/1475549063108890664/1475993571466281082.png",
-      "logotype_light": "quests/1475549063108890664/1476731263208653092.png",
-      "logotype_dark": "quests/1475549063108890664/1476731263208653092.png"
+      "logotype_light": "quests/1475549063108890664/1476731311996797018.png",
+      "logotype_dark": "quests/1475549063108890664/1476731311996797018.png"
     },
     "colors": {
       "primary": "#FFFFFF",
@@ -32173,7 +32173,7 @@
     },
     "messages": {
       "quest_name": "THE BRIDE!",
-      "game_title": "THE BRIDE! only in theaters this Friday 3/6",
+      "game_title": "THE BRIDE! now playing only in theaters",
       "game_publisher": "Warner Bros. Pictures"
     },
     "task_config": {
@@ -32199,22 +32199,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1475549063108890664/1476732092518891666_1080.mp4",
+              "url": "quests/1475549063108890664/1478909003898552341_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+              "thumbnail": "quests/1475549063108890664/1478908826861179014.jpg"
             },
             "video_low_res": {
-              "url": "quests/1475549063108890664/1476732092518891666_720.mp4",
+              "url": "quests/1475549063108890664/1478909003898552341_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+              "thumbnail": "quests/1475549063108890664/1478908826861179014.jpg"
             },
             "video_hls": {
-              "url": "quests/1475549063108890664/1476732092518891666.m3u8",
+              "url": "quests/1475549063108890664/1478909003898552341.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+              "thumbnail": "quests/1475549063108890664/1478908826861179014.jpg"
             }
           },
           "messages": {
@@ -32226,22 +32226,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1475549063108890664/1476732180041437474_1080.mp4",
+              "url": "quests/1475549063108890664/1478908940807966781_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+              "thumbnail": "quests/1475549063108890664/1478908826861179014.jpg"
             },
             "video_low_res": {
-              "url": "quests/1475549063108890664/1476732180041437474_720.mp4",
+              "url": "quests/1475549063108890664/1478908940807966781_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+              "thumbnail": "quests/1475549063108890664/1478908826861179014.jpg"
             },
             "video_hls": {
-              "url": "quests/1475549063108890664/1476732180041437474.m3u8",
+              "url": "quests/1475549063108890664/1478908940807966781.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1475549063108890664/1476732215416062062.jpg"
+              "thumbnail": "quests/1475549063108890664/1478908826861179014.jpg"
             }
           },
           "messages": {
@@ -32280,7 +32280,7 @@
     "cta_config": {
       "link": "http://www.fandango.com/thebridemovie",
       "button_label": "Get Tickets",
-      "subtitle": "THE BRIDE! only in theaters this Friday 3/6"
+      "subtitle": "THE BRIDE! now playing only in theaters"
     }
   },
   "1463558755621929219": {
