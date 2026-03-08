@@ -33151,5 +33151,126 @@
       "button_label": "Get Game",
       "subtitle": "Keep the fun going and try the game for free!"
     }
+  },
+  "1479908639048470708": {
+    "id": "1479908639048470708",
+    "config_version": 2,
+    "starts_at": "2026-03-08T17:00:34+00:00",
+    "expires_at": "2026-03-16T00:00:34+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://store.steampowered.com/app/2698940/The_Crew_Motorfest/",
+      "id": "1242326083647442984",
+      "name": "The Crew Motorfest"
+    },
+    "assets": {
+      "hero": "quests/1479908639048470708/1479912854697148637.jpg",
+      "hero_video": "quests/1479908639048470708/1479912907524276384.mp4",
+      "quest_bar_hero_blurhash": "lrYFFIJgdYm6SqapilZJcKcDdw==",
+      "quest_bar_hero": "quests/1479908639048470708/1479912653135679649.jpg",
+      "quest_bar_hero_video": "quests/1479908639048470708/1479912743095111982.mp4",
+      "game_tile": "1479913292544868433.png",
+      "logotype": "1479913291555016809.png",
+      "game_tile_light": "quests/1479908639048470708/1479913207509418005.png",
+      "game_tile_dark": "quests/1479908639048470708/1479913207509418005.png",
+      "logotype_light": "quests/1479908639048470708/1479913055113711688.png",
+      "logotype_dark": "quests/1479908639048470708/1479913055113711688.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Motorfest Play",
+      "game_title": "The Crew Motorfest",
+      "game_publisher": "Ubisoft"
+    },
+    "task_config": {
+      "type": 1,
+      "join_operator": "or",
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "event_name": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_XBOX": {
+          "event_name": "PLAY_ON_XBOX",
+          "target": 900,
+          "external_ids": []
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "event_name": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "external_ids": []
+        }
+      }
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1242326083647442984"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1242326083647442984"
+            }
+          ],
+          "external_ids": []
+        },
+        "PLAY_ON_PLAYSTATION": {
+          "type": "PLAY_ON_PLAYSTATION",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1242326083647442984"
+            }
+          ],
+          "external_ids": []
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 1,
+          "sku_id": "1479908639048470709",
+          "asset": "quests/1479908639048470708/1479911643931476218.png",
+          "asset_video": null,
+          "messages": {
+            "name": "Camaro ZL1 NASCAR",
+            "name_with_article": "a Camaro ZL1 NASCAR",
+            "redemption_instructions_by_platform": {
+              "0": "Motorfest redeem website\nhttps://redeem.ubisoft.com/the-crew-motorfest/"
+            }
+          },
+          "approximate_count": null,
+          "redemption_link": "https://redeem.ubisoft.com/the-crew-motorfest/"
+        }
+      ],
+      "rewards_expire_at": "2026-04-15T00:00:34+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://store.steampowered.com/app/2698940/The_Crew_Motorfest/",
+      "button_label": "Play Game",
+      "subtitle": "Jump into the game and test drive your new ride!"
+    }
   }
 }
