@@ -34059,7 +34059,7 @@
     "id": "1478855935052222658",
     "config_version": 2,
     "starts_at": "2026-03-11T17:00:00+00:00",
-    "expires_at": "2026-03-24T00:00:59+00:00",
+    "expires_at": "2026-03-24T06:59:59+00:00",
     "features": [
       15
     ],
@@ -34164,7 +34164,7 @@
           "redemption_link": null
         }
       ],
-      "rewards_expire_at": "2026-04-23T00:00:59+00:00",
+      "rewards_expire_at": "2026-04-23T06:59:59+00:00",
       "platforms": [
         0
       ]
