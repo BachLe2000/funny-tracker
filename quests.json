@@ -29426,23 +29426,6 @@
         0
       ]
     },
-    "video_metadata": {
-      "messages": {
-        "video_title": "Star Trek Fleet Command Quest",
-        "video_end_cta_button_label": "Play Now"
-      },
-      "assets": {
-        "video_player_video_hls": "quests/1471627613574533173/1471923467828854906.m3u8",
-        "video_player_video": "quests/1471627613574533173/1471923467828854906_1080.mp4",
-        "video_player_thumbnail": "quests/1471627613574533173/1471923547785003123.png",
-        "video_player_video_low_res": "quests/1471627613574533173/1471923467828854906_720.mp4",
-        "video_player_caption": null,
-        "video_player_transcript": null,
-        "quest_bar_preview_video": null,
-        "quest_bar_preview_thumbnail": null,
-        "quest_home_video": null
-      }
-    },
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "android": {
@@ -29827,24 +29810,6 @@
         0
       ]
     },
-    "video_metadata": {
-      "messages": {
-        "video_title": "The Bridge Is Yours, Captain",
-        "video_end_cta_subtitle": "Available on PC, PS5, Xbox X|S, and Nintendo Switch 2",
-        "video_end_cta_button_label": "Get Game"
-      },
-      "assets": {
-        "video_player_video_hls": "quests/1473375367715750081/1473377067147071630.m3u8",
-        "video_player_video": "quests/1473375367715750081/1473377067147071630_1080.mp4",
-        "video_player_thumbnail": "quests/1473375367715750081/1473379044094382142.png",
-        "video_player_video_low_res": "quests/1473375367715750081/1473377067147071630_720.mp4",
-        "video_player_caption": null,
-        "video_player_transcript": null,
-        "quest_bar_preview_video": null,
-        "quest_bar_preview_thumbnail": null,
-        "quest_home_video": null
-      }
-    },
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.stvatu.com/?utm_source=Discord&utm_medium=paid&utm_campaign=Launch&utm_content=quest",
@@ -29983,24 +29948,6 @@
       "platforms": [
         0
       ]
-    },
-    "video_metadata": {
-      "messages": {
-        "video_title": "video",
-        "video_end_cta_subtitle": "Lee Cronin's The Mummy in theaters April 17",
-        "video_end_cta_button_label": "Watch Now"
-      },
-      "assets": {
-        "video_player_video_hls": "quests/1473383175639007332/1473733113979998371.m3u8",
-        "video_player_video": "quests/1473383175639007332/1473733113979998371_1080.mp4",
-        "video_player_thumbnail": "quests/1473383175639007332/1473734105320656977.jpg",
-        "video_player_video_low_res": "quests/1473383175639007332/1473733113979998371_720.mp4",
-        "video_player_caption": null,
-        "video_player_transcript": null,
-        "quest_bar_preview_video": null,
-        "quest_bar_preview_thumbnail": null,
-        "quest_home_video": null
-      }
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
@@ -32949,7 +32896,7 @@
       15
     ],
     "application": {
-      "link": "https://store.steampowered.com/app/2698940/The_Crew_Motorfest/",
+      "link": "https://store.ubisoft.com/us/the-crew-motorfest/63bc67dbd406ab22f1174305.html?lang=en_US",
       "id": "545364944258990091",
       "name": "Discord"
     },
@@ -33077,7 +33024,7 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
-      "link": "https://store.steampowered.com/app/2698940/The_Crew_Motorfest/",
+      "link": "https://store.ubisoft.com/us/the-crew-motorfest/63bc67dbd406ab22f1174305.html?lang=en_US",
       "button_label": "Get Game",
       "subtitle": "Keep the fun going and try the game for free!"
     }
@@ -33091,7 +33038,7 @@
       15
     ],
     "application": {
-      "link": "https://store.steampowered.com/app/2698940/The_Crew_Motorfest/",
+      "link": "https://store.ubisoft.com/us/the-crew-motorfest/63bc67dbd406ab22f1174305.html?lang=en_US",
       "id": "1242326083647442984",
       "name": "The Crew Motorfest"
     },
@@ -33198,7 +33145,7 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
-      "link": "https://store.steampowered.com/app/2698940/The_Crew_Motorfest/",
+      "link": "https://store.ubisoft.com/us/the-crew-motorfest/63bc67dbd406ab22f1174305.html?lang=en_US",
       "button_label": "Play Game",
       "subtitle": "Jump into the game and test drive your new ride!"
     }
@@ -34149,7 +34096,7 @@
         "progress": {
           "event_name": "progress",
           "title": "Vote for who you think will win Masters Santiago!",
-          "description": "The final four of VALORANT Masters Santiago are here. Which team will raise the trophy on March 15?",
+          "description": "Vote on Desktop: The final four of VALORANT Masters Santiago are here. Which team will raise the trophy on March 15?",
           "target": 1
         }
       },
@@ -34169,7 +34116,7 @@
           "event_name": "progress",
           "messages": {
             "task_title": "Vote for who you think will win Masters Santiago!",
-            "task_description": "The final four of VALORANT Masters Santiago are here. Which team will raise the trophy on March 15?"
+            "task_description": "Vote on Desktop: The final four of VALORANT Masters Santiago are here. Which team will raise the trophy on March 15?"
           }
         }
       },
