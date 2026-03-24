@@ -28957,24 +28957,6 @@
         0
       ]
     },
-    "video_metadata": {
-      "messages": {
-        "video_title": "World of Warcraft: Midnight Trailer",
-        "video_end_cta_subtitle": "Midnight Pre-Expansion Update Trailer",
-        "video_end_cta_button_label": "Get Game"
-      },
-      "assets": {
-        "video_player_video_hls": "quests/1468654050840019074/1471337928524304414.m3u8",
-        "video_player_video": "quests/1468654050840019074/1471337928524304414_1080.mp4",
-        "video_player_thumbnail": "quests/1468654050840019074/1469064784786886706.jpg",
-        "video_player_video_low_res": "quests/1468654050840019074/1471337928524304414_720.mp4",
-        "video_player_caption": null,
-        "video_player_transcript": null,
-        "quest_bar_preview_video": null,
-        "quest_bar_preview_thumbnail": null,
-        "quest_home_video": null
-      }
-    },
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://shop.battle.net/product/world-of-warcraft-midnight?utm_source=Discord&utm_medium=PaidGGM",
@@ -29119,24 +29101,6 @@
       "platforms": [
         0
       ]
-    },
-    "video_metadata": {
-      "messages": {
-        "video_title": "R6_Diamond CGI trailer",
-        "video_end_cta_subtitle": "Get unlimited access",
-        "video_end_cta_button_label": "Get Access"
-      },
-      "assets": {
-        "video_player_video_hls": "quests/1471589719186870377/1471596531852378272.m3u8",
-        "video_player_video": "quests/1471589719186870377/1471596531852378272_1080.mp4",
-        "video_player_thumbnail": "quests/1471589719186870377/1471597865879994490.jpg",
-        "video_player_video_low_res": "quests/1471589719186870377/1471596531852378272_720.mp4",
-        "video_player_caption": "quests/1471589719186870377/1471642000594829445.vtt",
-        "video_player_transcript": null,
-        "quest_bar_preview_video": null,
-        "quest_bar_preview_thumbnail": null,
-        "quest_home_video": null
-      }
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
@@ -29350,23 +29314,6 @@
       "platforms": [
         0
       ]
-    },
-    "video_metadata": {
-      "messages": {
-        "video_title": "Star Trek Fleet Command Quest",
-        "video_end_cta_button_label": "Play Now"
-      },
-      "assets": {
-        "video_player_video_hls": "quests/1471627613574533173/1471923332126478426.m3u8",
-        "video_player_video": "quests/1471627613574533173/1471923332126478426_1080.mp4",
-        "video_player_thumbnail": "quests/1471627613574533173/1471923547785003123.png",
-        "video_player_video_low_res": "quests/1471627613574533173/1471923332126478426_720.mp4",
-        "video_player_caption": null,
-        "video_player_transcript": null,
-        "quest_bar_preview_video": null,
-        "quest_bar_preview_thumbnail": null,
-        "quest_home_video": null
-      }
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
@@ -29639,23 +29586,6 @@
       "platforms": [
         0
       ]
-    },
-    "video_metadata": {
-      "messages": {
-        "video_title": "Microsoft Azure: Greatness is Building Video",
-        "video_end_cta_button_label": "Learn More"
-      },
-      "assets": {
-        "video_player_video_hls": "quests/1471215421297266778/1471216952373412034.m3u8",
-        "video_player_video": "quests/1471215421297266778/1471216952373412034_1080.mp4",
-        "video_player_thumbnail": "quests/1471215421297266778/1471217061647618089.jpg",
-        "video_player_video_low_res": "quests/1471215421297266778/1471216952373412034_720.mp4",
-        "video_player_caption": null,
-        "video_player_transcript": null,
-        "quest_bar_preview_video": null,
-        "quest_bar_preview_thumbnail": null,
-        "quest_home_video": null
-      }
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
@@ -30205,11 +30135,11 @@
       "quest_bar_hero": "quests/1473407935970410724/1473448815129395483.jpg",
       "quest_bar_hero_video": "quests/1473407935970410724/1473848871108219094.mp4",
       "game_tile": "1473448970251538482.png",
-      "logotype": "1473448969223929876.png",
+      "logotype": "1474440452752277586.png",
       "game_tile_light": "quests/1473407935970410724/1473448950735310991.png",
       "game_tile_dark": "quests/1473407935970410724/1473448950735310991.png",
-      "logotype_light": "quests/1473407935970410724/1473448912294777034.png",
-      "logotype_dark": "quests/1473407935970410724/1473448912294777034.png"
+      "logotype_light": "quests/1473407935970410724/1474438955309989910.png",
+      "logotype_dark": "quests/1473407935970410724/1474438955309989910.png"
     },
     "colors": {
       "primary": "#FFFFFF",
@@ -31779,7 +31709,7 @@
       "hero_video": "quests/1474092541644247315/1478799823993045214.mp4",
       "quest_bar_hero_blurhash": "WUoOHIIEi3d7h4h4hogCawmhdg==",
       "quest_bar_hero": "quests/1474092541644247315/1478799479363866708.jpg",
-      "quest_bar_hero_video": "quests/1474092541644247315/1478799633164796036.mp4",
+      "quest_bar_hero_video": "quests/1474092541644247315/1480932799396581528.mp4",
       "game_tile": "1476705282859204798.png",
       "logotype": "1476705279168217251.png",
       "game_tile_light": "quests/1474092541644247315/1476705181679882290.png",
@@ -32161,11 +32091,11 @@
       "quest_bar_hero": "quests/1475549063108890664/1475993452411097159.jpg",
       "quest_bar_hero_video": "quests/1475549063108890664/1476733457072783520.mp4",
       "game_tile": "1475993594895532133.png",
-      "logotype": "1479538500847276155.png",
+      "logotype": "1479551315527995583.png",
       "game_tile_light": "quests/1475549063108890664/1475993571466281082.png",
       "game_tile_dark": "quests/1475549063108890664/1475993571466281082.png",
-      "logotype_light": "quests/1475549063108890664/1476731311996797018.png",
-      "logotype_dark": "quests/1475549063108890664/1476731311996797018.png"
+      "logotype_light": "quests/1475549063108890664/1479550840141516930.png",
+      "logotype_dark": "quests/1475549063108890664/1479550840141516930.png"
     },
     "colors": {
       "primary": "#FFFFFF",
@@ -32378,8 +32308,8 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.netflix.com/title/80217863",
-      "button_label": "Learn More",
-      "subtitle": "Watch One Piece Season 2 only on Netflix March 10"
+      "button_label": "Watch Now",
+      "subtitle": "Watch One Piece Season 2 only on Netflix"
     }
   },
   "1476286335697555526": {
@@ -32498,7 +32428,7 @@
         {
           "type": 3,
           "sku_id": "1476334428925071471",
-          "asset": "quests/1476286335697555526/1476335092648378531.mp4",
+          "asset": "quests/1476286335697555526/1478845928394854410.mp4",
           "asset_video": null,
           "messages": {
             "name": "Ted Avatar Decoration",
@@ -32885,7 +32815,7 @@
       "name": "Discord"
     },
     "assets": {
-      "hero": "quests/1478155979362275500/1479516904673771624.jpg",
+      "hero": "quests/1478155979362275500/1480713818907742278.jpg",
       "hero_video": "quests/1478155979362275500/1479514401504755803.mp4",
       "quest_bar_hero_blurhash": "WugJHIZXaGpQh5hhepemcW/22Q==",
       "quest_bar_hero": "quests/1478155979362275500/1479514804031979600.jpg",
@@ -33331,22 +33261,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1479195401532735640/1479198118519242833_1080.mp4",
+              "url": "quests/1479195401532735640/1479198785572831394_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1479195401532735640/1479198903894147243.jpg"
+              "thumbnail": "quests/1479195401532735640/1479198972315959396.jpg"
             },
             "video_low_res": {
-              "url": "quests/1479195401532735640/1479198118519242833_720.mp4",
+              "url": "quests/1479195401532735640/1479198785572831394_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1479195401532735640/1479198903894147243.jpg"
+              "thumbnail": "quests/1479195401532735640/1479198972315959396.jpg"
             },
             "video_hls": {
-              "url": "quests/1479195401532735640/1479198118519242833.m3u8",
+              "url": "quests/1479195401532735640/1479198785572831394.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1479195401532735640/1479198903894147243.jpg"
+              "thumbnail": "quests/1479195401532735640/1479198972315959396.jpg"
             }
           },
           "messages": {
@@ -33358,22 +33288,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1479195401532735640/1479198034389635163_1080.mp4",
+              "url": "quests/1479195401532735640/1479198722415136889_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1479195401532735640/1479198903894147243.jpg"
+              "thumbnail": "quests/1479195401532735640/1479198972315959396.jpg"
             },
             "video_low_res": {
-              "url": "quests/1479195401532735640/1479198034389635163_720.mp4",
+              "url": "quests/1479195401532735640/1479198722415136889_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1479195401532735640/1479198903894147243.jpg"
+              "thumbnail": "quests/1479195401532735640/1479198972315959396.jpg"
             },
             "video_hls": {
-              "url": "quests/1479195401532735640/1479198034389635163.m3u8",
+              "url": "quests/1479195401532735640/1479198722415136889.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1479195401532735640/1479198903894147243.jpg"
+              "thumbnail": "quests/1479195401532735640/1479198972315959396.jpg"
             }
           },
           "messages": {
@@ -33411,8 +33341,8 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.netflix.com/title/80217863",
-      "button_label": "Learn More",
-      "subtitle": "Watch One Piece Season 2 only on Netflix March 10"
+      "button_label": "Watch Now",
+      "subtitle": "Watch One Piece Season 2 only on Netflix"
     }
   },
   "1478179540558938152": {
@@ -33473,22 +33403,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1478179540558938152/1478184124761112616_1080.mp4",
+              "url": "quests/1478179540558938152/1479549758388437174_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1478179540558938152/1478185523083346101.jpg"
+              "thumbnail": "quests/1478179540558938152/1479549968644702311.jpg"
             },
             "video_low_res": {
-              "url": "quests/1478179540558938152/1478184124761112616_720.mp4",
+              "url": "quests/1478179540558938152/1479549758388437174_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1478179540558938152/1478185523083346101.jpg"
+              "thumbnail": "quests/1478179540558938152/1479549968644702311.jpg"
             },
             "video_hls": {
-              "url": "quests/1478179540558938152/1478184124761112616.m3u8",
+              "url": "quests/1478179540558938152/1479549758388437174.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1478179540558938152/1478185523083346101.jpg"
+              "thumbnail": "quests/1478179540558938152/1479549968644702311.jpg"
             }
           },
           "messages": {
@@ -33500,22 +33430,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1478179540558938152/1478184124761112616_1080.mp4",
+              "url": "quests/1478179540558938152/1479549758388437174_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1478179540558938152/1478185523083346101.jpg"
+              "thumbnail": "quests/1478179540558938152/1479549968644702311.jpg"
             },
             "video_low_res": {
-              "url": "quests/1478179540558938152/1478184124761112616_720.mp4",
+              "url": "quests/1478179540558938152/1479549758388437174_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1478179540558938152/1478185523083346101.jpg"
+              "thumbnail": "quests/1478179540558938152/1479549968644702311.jpg"
             },
             "video_hls": {
-              "url": "quests/1478179540558938152/1478184124761112616.m3u8",
+              "url": "quests/1478179540558938152/1479549758388437174.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1478179540558938152/1478185523083346101.jpg"
+              "thumbnail": "quests/1478179540558938152/1479549968644702311.jpg"
             }
           },
           "messages": {
@@ -33550,7 +33480,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://ad.doubleclick.net/ddm/clk/633260822;438267665;o?https://wwe.2k.com/2k26/buy/?utm_source=Discord&utm_medium=CPM&utm_campaign=WWE-W26-ACQ-AWR-USA_F26",
-      "button_label": "Pre-Order Now",
+      "button_label": "Play Now",
       "subtitle": "The Show Never Stops"
     }
   },
@@ -33827,11 +33757,11 @@
       "name": "Where Winds Meet"
     },
     "assets": {
-      "hero": "quests/1480592064768118967/1480594378065055917.jpg",
-      "hero_video": "quests/1480592064768118967/1480962820567994388.mp4",
-      "quest_bar_hero_blurhash": "WUoOHIIEi3d7h4h4hogCawmhdg==",
-      "quest_bar_hero": "quests/1480592064768118967/1480594123558883470.jpg",
-      "quest_bar_hero_video": "quests/1480592064768118967/1480962753207205930.mp4",
+      "hero": "quests/1480592064768118967/1481046003154026656.jpg",
+      "hero_video": "quests/1480592064768118967/1481046226404249740.mp4",
+      "quest_bar_hero_blurhash": "k0kKFII6dneKh3eAeHdKibCECA==",
+      "quest_bar_hero": "quests/1480592064768118967/1481045576169816084.jpg",
+      "quest_bar_hero_video": "quests/1480592064768118967/1481045831892074587.mp4",
       "game_tile": "1480595922928013435.png",
       "logotype": "1480595919610314874.png",
       "game_tile_light": "quests/1480592064768118967/1480595806615502868.png",
@@ -35122,22 +35052,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1481682156442091590/1481691542170370200_1080.mp4",
+              "url": "quests/1481682156442091590/1481691365736841359_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1481682156442091590/1481691955204456448.jpg"
+              "thumbnail": "quests/1481682156442091590/1481692000293224660.jpg"
             },
             "video_low_res": {
-              "url": "quests/1481682156442091590/1481691542170370200_720.mp4",
+              "url": "quests/1481682156442091590/1481691365736841359_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1481682156442091590/1481691955204456448.jpg"
+              "thumbnail": "quests/1481682156442091590/1481692000293224660.jpg"
             },
             "video_hls": {
-              "url": "quests/1481682156442091590/1481691542170370200.m3u8",
+              "url": "quests/1481682156442091590/1481691365736841359.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1481682156442091590/1481691955204456448.jpg"
+              "thumbnail": "quests/1481682156442091590/1481692000293224660.jpg"
             }
           },
           "messages": {
@@ -35149,22 +35079,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1481682156442091590/1481691876380639347_1080.mp4",
+              "url": "quests/1481682156442091590/1481691722898608128_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1481682156442091590/1481691955204456448.jpg"
+              "thumbnail": "quests/1481682156442091590/1481692000293224660.jpg"
             },
             "video_low_res": {
-              "url": "quests/1481682156442091590/1481691876380639347_720.mp4",
+              "url": "quests/1481682156442091590/1481691722898608128_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1481682156442091590/1481691955204456448.jpg"
+              "thumbnail": "quests/1481682156442091590/1481692000293224660.jpg"
             },
             "video_hls": {
-              "url": "quests/1481682156442091590/1481691876380639347.m3u8",
+              "url": "quests/1481682156442091590/1481691722898608128.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1481682156442091590/1481691955204456448.jpg"
+              "thumbnail": "quests/1481682156442091590/1481692000293224660.jpg"
             }
           },
           "messages": {
@@ -35202,8 +35132,8 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.netflix.com/title/81319485",
-      "button_label": "Learn More",
-      "subtitle": "Now in select theaters and on Netflix March 20"
+      "button_label": "Watch Now",
+      "subtitle": "Peaky Blinders: The Immortal Man only on Netflix"
     }
   },
   "1479533798306611281": {
@@ -36306,6 +36236,12 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
+      "android": {
+        "android_app_id": "com.angames.android.google.avatarbendingtheworld"
+      },
+      "ios": {
+        "ios_app_id": "6479603752"
+      },
       "link": "https://www.avatarrealmscollide.com/",
       "button_label": "Play Now"
     }
@@ -36536,7 +36472,7 @@
           "asset": "quests/1484647674249482493/1484650207986585821.png",
           "asset_video": null,
           "messages": {
-            "name": "Bach Wumpus!",
+            "name": "100 Max Particles!",
             "name_with_article": "a 100 Max Particles!",
             "redemption_instructions_by_platform": {
               "0": "\"To redeem an offer code on the web:\nVisit this website: https://store.pokemongo.com/offer-redemption\nLog in using the same credentials you use to access your Pokémon GO account.\nEnter your offer code.\nAfter successfully redeeming an offer code, a message will display the items added to your inventory.\nThe redemption code will expire on March 31, 2026, at 11:59 PM PST. We highly recommend redeeming it as soon as possible.\""
@@ -36664,6 +36600,12 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
+      "android": {
+        "android_app_id": "com.angames.android.google.avatarbendingtheworld"
+      },
+      "ios": {
+        "ios_app_id": "6479603752"
+      },
       "link": "https://www.avatarrealmscollide.com/",
       "button_label": "Play Now"
     }
