@@ -36325,10 +36325,10 @@
     },
     "assets": {
       "hero": "quests/1481052453335076926/1481384782205161542.jpg",
-      "hero_video": "quests/1481052453335076926/1484645868903596083.mp4",
+      "hero_video": "quests/1481052453335076926/1486892130080391178.mp4",
       "quest_bar_hero_blurhash": "ylgKGoxwp1h6h0eJgHgHioc=",
       "quest_bar_hero": "quests/1481052453335076926/1481384782205161542.jpg",
-      "quest_bar_hero_video": "quests/1481052453335076926/1484645868903596083.mp4",
+      "quest_bar_hero_video": "quests/1481052453335076926/1486892130080391178.mp4",
       "game_tile": "1481363801264754915.png",
       "logotype": "1481363800191140001.png",
       "game_tile_light": "quests/1481052453335076926/1481363770503598161.png",
@@ -36342,7 +36342,7 @@
     },
     "messages": {
       "quest_name": "They Will Kill You Movie",
-      "game_title": "They Will Kill You only in theaters Friday 3/27",
+      "game_title": "They Will Kill You now playing only in theaters",
       "game_publisher": "Warner Bros. Pictures"
     },
     "task_config": {
@@ -36368,22 +36368,22 @@
           "target": 14,
           "assets": {
             "video": {
-              "url": "quests/1481052453335076926/1484645796866687237_1080.mp4",
+              "url": "quests/1481052453335076926/1486891946306703481_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+              "thumbnail": "quests/1481052453335076926/1486892050711445515.jpg"
             },
             "video_low_res": {
-              "url": "quests/1481052453335076926/1484645796866687237_720.mp4",
+              "url": "quests/1481052453335076926/1486891946306703481_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+              "thumbnail": "quests/1481052453335076926/1486892050711445515.jpg"
             },
             "video_hls": {
-              "url": "quests/1481052453335076926/1484645796866687237.m3u8",
+              "url": "quests/1481052453335076926/1486891946306703481.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+              "thumbnail": "quests/1481052453335076926/1486892050711445515.jpg"
             }
           },
           "messages": {
@@ -36395,22 +36395,22 @@
           "target": 14,
           "assets": {
             "video": {
-              "url": "quests/1481052453335076926/1484645697230864495_1080.mp4",
+              "url": "quests/1481052453335076926/1486891995250163793_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+              "thumbnail": "quests/1481052453335076926/1486892050711445515.jpg"
             },
             "video_low_res": {
-              "url": "quests/1481052453335076926/1484645697230864495_720.mp4",
+              "url": "quests/1481052453335076926/1486891995250163793_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+              "thumbnail": "quests/1481052453335076926/1486892050711445515.jpg"
             },
             "video_hls": {
-              "url": "quests/1481052453335076926/1484645697230864495.m3u8",
+              "url": "quests/1481052453335076926/1486891995250163793.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1481052453335076926/1481363948539351060.jpg"
+              "thumbnail": "quests/1481052453335076926/1486892050711445515.jpg"
             }
           },
           "messages": {
@@ -36446,7 +36446,7 @@
     "cta_config": {
       "link": "https://www.fandango.com/they-will-kill-you-2026-244051/movie-overview",
       "button_label": "Get Tickets",
-      "subtitle": "They Will Kill You only in theaters Friday 3/27"
+      "subtitle": "They Will Kill You now playing only in theaters"
     }
   },
   "1484647674249482493": {
