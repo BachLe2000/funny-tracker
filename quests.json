@@ -41136,11 +41136,6 @@
       "type": 1,
       "join_operator": "or",
       "tasks": {
-        "WATCH_VIDEO": {
-          "event_name": "WATCH_VIDEO",
-          "target": 29,
-          "external_ids": []
-        },
         "WATCH_VIDEO_ON_MOBILE": {
           "event_name": "WATCH_VIDEO_ON_MOBILE",
           "target": 29,
@@ -41150,33 +41145,6 @@
     },
     "task_config_v2": {
       "tasks": {
-        "WATCH_VIDEO": {
-          "type": "WATCH_VIDEO",
-          "target": 29,
-          "assets": {
-            "video": {
-              "url": "quests/1487239593790017656/1494468008146370710_1080.mp4",
-              "width": 1920,
-              "height": 1080,
-              "thumbnail": "quests/1487239593790017656/1494467388991869109.jpg"
-            },
-            "video_low_res": {
-              "url": "quests/1487239593790017656/1494468008146370710_720.mp4",
-              "width": 1920,
-              "height": 1080,
-              "thumbnail": "quests/1487239593790017656/1494467388991869109.jpg"
-            },
-            "video_hls": {
-              "url": "quests/1487239593790017656/1494468008146370710.m3u8",
-              "width": 1920,
-              "height": 1080,
-              "thumbnail": "quests/1487239593790017656/1494467388991869109.jpg"
-            }
-          },
-          "messages": {
-            "video_title": "NEW ROAD TO IMMORTALITY MODE"
-          }
-        },
         "WATCH_VIDEO_ON_MOBILE": {
           "type": "WATCH_VIDEO_ON_MOBILE",
           "target": 29,
