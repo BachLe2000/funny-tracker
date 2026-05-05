@@ -44837,5 +44837,493 @@
       "button_label": "Learn More",
       "subtitle": "A film by Christopher Nolan. In theatres 7 17 26."
     }
+  },
+  "1499246595445755914": {
+    "config_version": 2,
+    "starts_at": "2026-05-05T17:00:00+00:00",
+    "expires_at": "2026-05-12T06:59:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.odysseymovie.com/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1499246595445755914/1499863287733551124.jpg",
+      "hero_video": "quests/1499246595445755914/1499863319044165794.mp4",
+      "quest_bar_hero_blurhash": "CzkSM4qwhmh3iId3sHgIi4g=",
+      "quest_bar_hero": "quests/1499246595445755914/1499863411591217385.jpg",
+      "quest_bar_hero_video": "quests/1499246595445755914/1501293356712464497.mp4",
+      "game_tile": "1499863442537054229.png",
+      "logotype": "1499863437063360775.png",
+      "game_tile_light": "quests/1499246595445755914/1499863248860745809.png",
+      "game_tile_dark": "quests/1499246595445755914/1499863248860745809.png",
+      "logotype_light": "quests/1499246595445755914/1499863364216684564.png",
+      "logotype_dark": "quests/1499246595445755914/1499863364216684564.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Tráiler de La Odisea",
+      "game_title": "Una película de Christopher Nolan. En cines el 16 de julio de 2026.",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 144,
+          "assets": {
+            "video": {
+              "url": "quests/1499246595445755914/1501246164664586250_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499246595445755914/1501246945505706085.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1499246595445755914/1501246164664586250_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499246595445755914/1501246945505706085.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1499246595445755914/1501246164664586250.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499246595445755914/1501246945505706085.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Odyssey Trailer"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 144,
+          "assets": {
+            "video": {
+              "url": "quests/1499246595445755914/1501246164664586250_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499246595445755914/1501246945505706085.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1499246595445755914/1501246164664586250_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499246595445755914/1501246945505706085.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1499246595445755914/1501246164664586250.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499246595445755914/1501246945505706085.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Odyssey Trailer"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-06-11T06:59:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.odysseymovie.com/",
+      "button_label": "Learn More",
+      "subtitle": "Una película de Christopher Nolan. En cines el 16 de julio de 2026."
+    }
+  },
+  "1499245520336715868": {
+    "config_version": 2,
+    "starts_at": "2026-05-05T17:00:00+00:00",
+    "expires_at": "2026-05-12T06:59:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.odysseymovie.com/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1499245520336715868/1499858620983017743.jpg",
+      "hero_video": "quests/1499245520336715868/1499858736897064980.mp4",
+      "quest_bar_hero_blurhash": "CzkSM4qwhmh3iId3sHgIi4g=",
+      "quest_bar_hero": "quests/1499245520336715868/1499858680256925886.jpg",
+      "quest_bar_hero_video": "quests/1499245520336715868/1501295996951330978.mp4",
+      "game_tile": "1499858881999016118.png",
+      "logotype": "1499858880983863327.png",
+      "game_tile_light": "quests/1499245520336715868/1499858580734738512.png",
+      "game_tile_dark": "quests/1499245520336715868/1499858580734738512.png",
+      "logotype_light": "quests/1499245520336715868/1499858852030709960.png",
+      "logotype_dark": "quests/1499245520336715868/1499858852030709960.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "The Odyssey Trailer",
+      "game_title": "Een film van Christopher Nolan. Vanaf 16 juli 2026 in de bioscoop.",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 144,
+          "assets": {
+            "video": {
+              "url": "quests/1499245520336715868/1501245869582848000_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499245520336715868/1501298645331349504.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1499245520336715868/1501245869582848000_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499245520336715868/1501298645331349504.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1499245520336715868/1501245869582848000.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499245520336715868/1501298645331349504.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Odyssey Trailer"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 144,
+          "assets": {
+            "video": {
+              "url": "quests/1499245520336715868/1501245869582848000_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499245520336715868/1501298645331349504.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1499245520336715868/1501245869582848000_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499245520336715868/1501298645331349504.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1499245520336715868/1501245869582848000.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499245520336715868/1501298645331349504.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Odyssey Trailer"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-06-11T06:59:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.odysseymovie.com/",
+      "button_label": "Learn More",
+      "subtitle": "Een film van Christopher Nolan. Vanaf 16 juli 2026 in de bioscoop."
+    }
+  },
+  "1499247776582864927": {
+    "config_version": 2,
+    "starts_at": "2026-05-05T17:00:00+00:00",
+    "expires_at": "2026-05-12T06:59:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.odysseymovie.com/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1499247776582864927/1499865021725937756.jpg",
+      "hero_video": "quests/1499247776582864927/1499865057411072120.mp4",
+      "quest_bar_hero_blurhash": "CzkSM4qwhmh3iId3sHgIi4g=",
+      "quest_bar_hero": "quests/1499247776582864927/1499865093343678608.jpg",
+      "quest_bar_hero_video": "quests/1499247776582864927/1501293424140353536.mp4",
+      "game_tile": "1499865139648659636.png",
+      "logotype": "1499865138533240932.png",
+      "game_tile_light": "quests/1499247776582864927/1499864698143637674.png",
+      "game_tile_dark": "quests/1499247776582864927/1499864698143637674.png",
+      "logotype_light": "quests/1499247776582864927/1499864941052825651.png",
+      "logotype_dark": "quests/1499247776582864927/1499864941052825651.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "The Odyssey Trailer",
+      "game_title": "A film by Christopher Nolan. In cinemas 16 7 26.",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 144,
+          "assets": {
+            "video": {
+              "url": "quests/1499247776582864927/1501246457032867910_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499247776582864927/1501246877180629072.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1499247776582864927/1501246457032867910_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499247776582864927/1501246877180629072.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1499247776582864927/1501246457032867910.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499247776582864927/1501246877180629072.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Odyssey Trailer"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 144,
+          "assets": {
+            "video": {
+              "url": "quests/1499247776582864927/1501246457032867910_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499247776582864927/1501246877180629072.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1499247776582864927/1501246457032867910_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499247776582864927/1501246877180629072.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1499247776582864927/1501246457032867910.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499247776582864927/1501246877180629072.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Odyssey Trailer"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-06-11T06:59:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.odysseymovie.com/",
+      "button_label": "Learn More",
+      "subtitle": "A film by Christopher Nolan. In cinemas 16 7 26."
+    }
+  },
+  "1499242748358688951": {
+    "config_version": 2,
+    "starts_at": "2026-05-05T17:00:00+00:00",
+    "expires_at": "2026-05-12T06:59:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.odysseymovie.com/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1499242748358688951/1499826343653671142.jpg",
+      "hero_video": "quests/1499242748358688951/1499826294987423835.mp4",
+      "quest_bar_hero_blurhash": "CzkSM4qwhmh3iId3sHgIi4g=",
+      "quest_bar_hero": "quests/1499242748358688951/1499826378810327100.jpg",
+      "quest_bar_hero_video": "quests/1499242748358688951/1501295414928736256.mp4",
+      "game_tile": "1499826460284813332.png",
+      "logotype": "1499826459089571940.png",
+      "game_tile_light": "quests/1499242748358688951/1499826260648530121.png",
+      "game_tile_dark": "quests/1499242748358688951/1499826260648530121.png",
+      "logotype_light": "quests/1499242748358688951/1499826216654475475.png",
+      "logotype_dark": "quests/1499242748358688951/1499826216654475475.png"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Tráiler de LA ODISEA",
+      "game_title": "Una película de Christopher Nolan, 17/7 EXCLUSIVAMENTE EN CINES",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 144,
+          "assets": {
+            "video": {
+              "url": "quests/1499242748358688951/1501245391549501540_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499242748358688951/1501297868877594694.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1499242748358688951/1501245391549501540_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499242748358688951/1501297868877594694.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1499242748358688951/1501245391549501540.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499242748358688951/1501297868877594694.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Odyssey Trailer"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 144,
+          "assets": {
+            "video": {
+              "url": "quests/1499242748358688951/1501245391549501540_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499242748358688951/1501297868877594694.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1499242748358688951/1501245391549501540_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499242748358688951/1501297868877594694.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1499242748358688951/1501245391549501540.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499242748358688951/1501297868877594694.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "The Odyssey Trailer"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-06-11T06:59:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.odysseymovie.com/",
+      "button_label": "Learn More",
+      "subtitle": "Una película de Christopher Nolan, 17/7 EXCLUSIVAMENTE EN CINES"
+    }
   }
 }
