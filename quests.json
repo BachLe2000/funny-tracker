@@ -46997,5 +46997,128 @@
       "button_label": "Join Server",
       "subtitle": "A film by Christopher Nolan. In theaters 7 17 26."
     }
+  },
+  "1499389610009034832": {
+    "id": "1499389610009034832",
+    "config_version": 2,
+    "starts_at": "2026-05-06T17:35:00+00:00",
+    "expires_at": "2026-05-13T14:59:59+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://gotkingsroad.netmarble.com/?utm_source=DISCORD&utm_medium=VIDEO_QUEST&utm_content=pre",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1499389610009034832/1501013314665189597.jpg",
+      "hero_video": "quests/1499389610009034832/1501013421058035742.mp4",
+      "quest_bar_hero_blurhash": "ENcNFIKHV4h/dnd2hnZ4gIkHmA==",
+      "quest_bar_hero": "quests/1499389610009034832/1501013240027680909.jpg",
+      "quest_bar_hero_video": "quests/1499389610009034832/1501013421058035742.mp4",
+      "game_tile": "1501013673596944384.png",
+      "logotype": "1501013671818825808.png",
+      "game_tile_light": "quests/1499389610009034832/1501013639581139035.png",
+      "game_tile_dark": "quests/1499389610009034832/1501013639581139035.png",
+      "logotype_light": "quests/1499389610009034832/1501013537848426656.png",
+      "logotype_dark": "quests/1499389610009034832/1501013537848426656.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Game of Thrones: Kingsroad",
+      "game_title": "Game of Thrones: Kingsroad",
+      "game_publisher": "Netmarble"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 45,
+          "assets": {
+            "video": {
+              "url": "quests/1499389610009034832/1501013741842731028_1080.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499389610009034832/1501013907274469396.png"
+            },
+            "video_low_res": {
+              "url": "quests/1499389610009034832/1501013741842731028_720.mp4",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499389610009034832/1501013907274469396.png"
+            },
+            "video_hls": {
+              "url": "quests/1499389610009034832/1501013741842731028.m3u8",
+              "width": 1920,
+              "height": 1080,
+              "thumbnail": "quests/1499389610009034832/1501013907274469396.png"
+            }
+          },
+          "messages": {
+            "video_title": "GoT Kingsroad Pre Registration"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 45,
+          "assets": {
+            "video": {
+              "url": "quests/1499389610009034832/1501013820171358288_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1499389610009034832/1501013907274469396.png"
+            },
+            "video_low_res": {
+              "url": "quests/1499389610009034832/1501013820171358288_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1499389610009034832/1501013907274469396.png"
+            },
+            "video_hls": {
+              "url": "quests/1499389610009034832/1501013820171358288.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1499389610009034832/1501013907274469396.png"
+            }
+          },
+          "messages": {
+            "video_title": "GoT Kingsroad Pre Registration"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-06-12T14:59:59+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://gotkingsroad.netmarble.com/?utm_source=DISCORD&utm_medium=VIDEO_QUEST&utm_content=pre",
+      "button_label": "Preregister",
+      "subtitle": "Game of Thrones’ Action RPG"
+    }
   }
 }
