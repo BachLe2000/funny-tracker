@@ -43387,29 +43387,13 @@
       "logotype_dark": "quests/1496572086049837187/1500895171242365048.png"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#4752C4",
       "secondary": "#000000"
     },
     "messages": {
       "quest_name": "Mortal Kombat II Scorpion",
-      "game_title": "Mortal Kombat II Only in Theaters Friday",
+      "game_title": "Mortal Kombat II Now Playing in Theaters",
       "game_publisher": "Warner Bros. Pictures"
-    },
-    "task_config": {
-      "type": 1,
-      "join_operator": "or",
-      "tasks": {
-        "WATCH_VIDEO": {
-          "event_name": "WATCH_VIDEO",
-          "target": 62,
-          "external_ids": []
-        },
-        "WATCH_VIDEO_ON_MOBILE": {
-          "event_name": "WATCH_VIDEO_ON_MOBILE",
-          "target": 62,
-          "external_ids": []
-        }
-      }
     },
     "task_config_v2": {
       "tasks": {
@@ -43499,7 +43483,7 @@
     "cta_config": {
       "link": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
       "button_label": "Get Tickets",
-      "subtitle": "Mortal Kombat II Only in Theaters Friday"
+      "subtitle": "Mortal Kombat II Now Playing in Theaters"
     }
   },
   "1496570375306481844": {
@@ -43517,10 +43501,10 @@
     },
     "assets": {
       "hero": "quests/1496570375306481844/1498805848779128852.jpg",
-      "hero_video": "quests/1496570375306481844/1500896122082955424.mp4",
+      "hero_video": "quests/1496570375306481844/1502345664003047434.mp4",
       "quest_bar_hero_blurhash": "AwgGCoIGu3WHiEioCnaHcFc=",
       "quest_bar_hero": "quests/1496570375306481844/1498805848779128852.jpg",
-      "quest_bar_hero_video": "quests/1496570375306481844/1500896122082955424.mp4",
+      "quest_bar_hero_video": "quests/1496570375306481844/1502345664003047434.mp4",
       "game_tile": "1498806465224511549.png",
       "logotype": "1500896438555508828.png",
       "game_tile_light": "quests/1496570375306481844/1498806432068407336.png",
@@ -43529,29 +43513,13 @@
       "logotype_dark": "quests/1496570375306481844/1500896266950021170.png"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#4752C4",
       "secondary": "#000000"
     },
     "messages": {
       "quest_name": "Mortal Kombat II Kitana",
-      "game_title": "Mortal Kombat II Only in Theaters Friday",
+      "game_title": "Mortal Kombat II Now Playing in Theaters",
       "game_publisher": "Warner Bros. Pictures"
-    },
-    "task_config": {
-      "type": 1,
-      "join_operator": "or",
-      "tasks": {
-        "WATCH_VIDEO": {
-          "event_name": "WATCH_VIDEO",
-          "target": 14,
-          "external_ids": []
-        },
-        "WATCH_VIDEO_ON_MOBILE": {
-          "event_name": "WATCH_VIDEO_ON_MOBILE",
-          "target": 14,
-          "external_ids": []
-        }
-      }
     },
     "task_config_v2": {
       "tasks": {
@@ -43560,19 +43528,19 @@
           "target": 14,
           "assets": {
             "video": {
-              "url": "quests/1496570375306481844/1499903833478795434_1080.mp4",
+              "url": "quests/1496570375306481844/1502345945654755588_1080.mp4",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1496570375306481844/1500896574258282628.jpg"
             },
             "video_low_res": {
-              "url": "quests/1496570375306481844/1499903833478795434_720.mp4",
+              "url": "quests/1496570375306481844/1502345945654755588_720.mp4",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1496570375306481844/1500896574258282628.jpg"
             },
             "video_hls": {
-              "url": "quests/1496570375306481844/1499903833478795434.m3u8",
+              "url": "quests/1496570375306481844/1502345945654755588.m3u8",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1496570375306481844/1500896574258282628.jpg"
@@ -43587,19 +43555,19 @@
           "target": 14,
           "assets": {
             "video": {
-              "url": "quests/1496570375306481844/1499903700255117543_1080.mp4",
+              "url": "quests/1496570375306481844/1502345878164476024_1080.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1496570375306481844/1500896574258282628.jpg"
             },
             "video_low_res": {
-              "url": "quests/1496570375306481844/1499903700255117543_720.mp4",
+              "url": "quests/1496570375306481844/1502345878164476024_720.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1496570375306481844/1500896574258282628.jpg"
             },
             "video_hls": {
-              "url": "quests/1496570375306481844/1499903700255117543.m3u8",
+              "url": "quests/1496570375306481844/1502345878164476024.m3u8",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1496570375306481844/1500896574258282628.jpg"
@@ -43641,7 +43609,7 @@
     "cta_config": {
       "link": "https://www.fandango.com/mortal-kombat-ii-2026-241451/movie-overview",
       "button_label": "Get Tickets",
-      "subtitle": "Mortal Kombat II Only in Theaters Friday"
+      "subtitle": "Mortal Kombat II Now Playing in Theaters"
     }
   },
   "1496645830361223358": {
