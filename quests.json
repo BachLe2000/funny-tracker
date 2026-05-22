@@ -48948,7 +48948,7 @@
     },
     "messages": {
       "quest_name": "Apple Cash",
-      "game_title": "Send or request money in the chat.",
+      "game_title": "Send Cash easily in Messages.",
       "game_publisher": "Apple"
     },
     "task_config_v2": {
@@ -48958,19 +48958,19 @@
           "target": 14,
           "assets": {
             "video": {
-              "url": "quests/1503878119743029389/1503887273161392208_1080.mp4",
+              "url": "quests/1503878119743029389/1504526788313747466_1080.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
             },
             "video_low_res": {
-              "url": "quests/1503878119743029389/1503887273161392208_720.mp4",
+              "url": "quests/1503878119743029389/1504526788313747466_720.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
             },
             "video_hls": {
-              "url": "quests/1503878119743029389/1503887273161392208.m3u8",
+              "url": "quests/1503878119743029389/1504526788313747466.m3u8",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1503878119743029389/1503887603034755214.png"
@@ -49009,7 +49009,7 @@
     "cta_config": {
       "link": "https://learn.applecash.apple/benefits",
       "button_label": "Learn More",
-      "subtitle": "Send or request money in the chat."
+      "subtitle": "Send Cash easily in Messages."
     }
   },
   "1503853078712156230": {
