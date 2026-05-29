@@ -49243,7 +49243,7 @@
   "1499938629387030638": {
     "config_version": 2,
     "starts_at": "2026-05-18T17:00:00+00:00",
-    "expires_at": "2026-06-01T00:00:59+00:00",
+    "expires_at": "2026-06-04T00:00:59+00:00",
     "features": [
       15
     ],
@@ -49350,7 +49350,7 @@
           "premium_orb_quantity": null
         }
       ],
-      "rewards_expire_at": "2026-07-01T00:00:59+00:00",
+      "rewards_expire_at": "2026-07-04T00:00:59+00:00",
       "platforms": [
         0
       ]
@@ -51948,16 +51948,6 @@
               "id": "1328876348361412619"
             }
           ]
-        },
-        "PLAY_ON_XBOX": {
-          "type": "PLAY_ON_XBOX",
-          "target": 900,
-          "applications": [
-            {
-              "id": "1328876348361412619"
-            }
-          ],
-          "external_ids": []
         },
         "PLAY_ON_PLAYSTATION": {
           "type": "PLAY_ON_PLAYSTATION",
