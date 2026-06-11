@@ -52696,10 +52696,8 @@
     },
     "assets": {
       "hero": "quests/1506770769999433830/1509601738624078015.jpg",
-      "hero_video": null,
       "quest_bar_hero_blurhash": "NQgKDIL3hohhiHlekXtndIB0CA==",
       "quest_bar_hero": "quests/1506770769999433830/1506775999881150544.jpg",
-      "quest_bar_hero_video": null,
       "game_tile": "1506780817282826392.png",
       "logotype": "1509601781389332621.png",
       "game_tile_light": "quests/1506770769999433830/1506776252831240223.png",
@@ -52759,7 +52757,7 @@
           "redemption_link": null
         }
       ],
-      "rewards_expire_at": "2026-07-15T00:00:00+00:00",
+      "rewards_expire_at": "2026-07-01T00:00:00+00:00",
       "platforms": [
         0
       ]
@@ -52774,7 +52772,7 @@
     "id": "1509683146239512726",
     "config_version": 2,
     "starts_at": "2026-06-01T17:00:00+00:00",
-    "expires_at": "2026-06-15T00:00:00+00:00",
+    "expires_at": "2026-06-22T00:00:00+00:00",
     "features": [
       15
     ],
@@ -52785,10 +52783,10 @@
     },
     "assets": {
       "hero": "quests/1509683146239512726/1510024772099244154.jpg",
-      "hero_video": "quests/1509683146239512726/1511095610667962560.mp4",
+      "hero_video": "quests/1509683146239512726/1511382083510075472.mp4",
       "quest_bar_hero_blurhash": "YtgFGojCt6iAYpWYaISABgk=",
       "quest_bar_hero": "quests/1509683146239512726/1510024772099244154.jpg",
-      "quest_bar_hero_video": "quests/1509683146239512726/1511095610667962560.mp4",
+      "quest_bar_hero_video": "quests/1509683146239512726/1511382083510075472.mp4",
       "game_tile": "1510024971651387603.png",
       "logotype": "1510024970380771578.png",
       "game_tile_light": "quests/1509683146239512726/1510024521875460116.png",
@@ -52854,7 +52852,7 @@
           "premium_orb_quantity": 240
         }
       ],
-      "rewards_expire_at": "2026-07-15T00:00:00+00:00",
+      "rewards_expire_at": "2026-07-22T00:00:00+00:00",
       "platforms": [
         0
       ]
