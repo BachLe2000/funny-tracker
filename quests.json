@@ -57811,7 +57811,7 @@
     },
     "messages": {
       "quest_name": "Minions & Monster",
-      "game_title": "Ab 1. Juli nur im Kino ",
+      "game_title": "Jetzt nur im Kino",
       "game_publisher": "Universal Pictures"
     },
     "task_config_v2": {
@@ -57821,22 +57821,22 @@
           "target": 157,
           "assets": {
             "video": {
-              "url": "quests/1516570869911126167/1516879536854270022_1080.mp4",
+              "url": "quests/1516570869911126167/1516879523210072084_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516570869911126167/1516879448106991736.jpg"
+              "thumbnail": "quests/1516570869911126167/1516879459733737582.jpg"
             },
             "video_low_res": {
-              "url": "quests/1516570869911126167/1516879536854270022_720.mp4",
+              "url": "quests/1516570869911126167/1516879523210072084_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516570869911126167/1516879448106991736.jpg"
+              "thumbnail": "quests/1516570869911126167/1516879459733737582.jpg"
             },
             "video_hls": {
-              "url": "quests/1516570869911126167/1516879536854270022.m3u8",
+              "url": "quests/1516570869911126167/1516879523210072084.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516570869911126167/1516879448106991736.jpg"
+              "thumbnail": "quests/1516570869911126167/1516879459733737582.jpg"
             }
           },
           "messages": {
@@ -57848,22 +57848,22 @@
           "target": 158,
           "assets": {
             "video": {
-              "url": "quests/1516570869911126167/1516879536606941445_1080.mp4",
+              "url": "quests/1516570869911126167/1516879523293954159_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516570869911126167/1516879448106991736.jpg"
+              "thumbnail": "quests/1516570869911126167/1516879459733737582.jpg"
             },
             "video_low_res": {
-              "url": "quests/1516570869911126167/1516879536606941445_720.mp4",
+              "url": "quests/1516570869911126167/1516879523293954159_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516570869911126167/1516879448106991736.jpg"
+              "thumbnail": "quests/1516570869911126167/1516879459733737582.jpg"
             },
             "video_hls": {
-              "url": "quests/1516570869911126167/1516879536606941445.m3u8",
+              "url": "quests/1516570869911126167/1516879523293954159.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516570869911126167/1516879448106991736.jpg"
+              "thumbnail": "quests/1516570869911126167/1516879459733737582.jpg"
             }
           },
           "messages": {
@@ -57902,7 +57902,7 @@
     "cta_config": {
       "link": "https://app.powster.com/universalstudios/minions-and-monsters-intl/de/",
       "button_label": "Get Tickets",
-      "subtitle": "Ab 1. Juli nur im Kino "
+      "subtitle": "Jetzt nur im Kino"
     }
   },
   "1516565812302057503": {
@@ -57936,7 +57936,7 @@
     },
     "messages": {
       "quest_name": " Minions & Monsters",
-      "game_title": "1 de Julio Solo en Cines",
+      "game_title": "Ya en Cines",
       "game_publisher": "Universal Pictures"
     },
     "task_config_v2": {
@@ -57946,22 +57946,22 @@
           "target": 157,
           "assets": {
             "video": {
-              "url": "quests/1516565812302057503/1516853225943339119_1080.mp4",
+              "url": "quests/1516565812302057503/1516853242456313998_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516565812302057503/1516853190606458910.jpg"
+              "thumbnail": "quests/1516565812302057503/1516853174416445571.jpg"
             },
             "video_low_res": {
-              "url": "quests/1516565812302057503/1516853225943339119_720.mp4",
+              "url": "quests/1516565812302057503/1516853242456313998_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516565812302057503/1516853190606458910.jpg"
+              "thumbnail": "quests/1516565812302057503/1516853174416445571.jpg"
             },
             "video_hls": {
-              "url": "quests/1516565812302057503/1516853225943339119.m3u8",
+              "url": "quests/1516565812302057503/1516853242456313998.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516565812302057503/1516853190606458910.jpg"
+              "thumbnail": "quests/1516565812302057503/1516853174416445571.jpg"
             }
           },
           "messages": {
@@ -57973,22 +57973,22 @@
           "target": 158,
           "assets": {
             "video": {
-              "url": "quests/1516565812302057503/1516853225997865020_1080.mp4",
+              "url": "quests/1516565812302057503/1516853242460504084_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516565812302057503/1516853190606458910.jpg"
+              "thumbnail": "quests/1516565812302057503/1516853174416445571.jpg"
             },
             "video_low_res": {
-              "url": "quests/1516565812302057503/1516853225997865020_720.mp4",
+              "url": "quests/1516565812302057503/1516853242460504084_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516565812302057503/1516853190606458910.jpg"
+              "thumbnail": "quests/1516565812302057503/1516853174416445571.jpg"
             },
             "video_hls": {
-              "url": "quests/1516565812302057503/1516853225997865020.m3u8",
+              "url": "quests/1516565812302057503/1516853242460504084.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516565812302057503/1516853190606458910.jpg"
+              "thumbnail": "quests/1516565812302057503/1516853174416445571.jpg"
             }
           },
           "messages": {
@@ -58027,7 +58027,7 @@
     "cta_config": {
       "link": "https://www.minions-lapelicula.es/entradas/",
       "button_label": "Get Tickets",
-      "subtitle": "1 de Julio Solo en Cines"
+      "subtitle": "Ya en Cines"
     }
   },
   "1516569133238456510": {
@@ -58061,7 +58061,7 @@
     },
     "messages": {
       "quest_name": "Minions & Monsters",
-      "game_title": "Dal 1° Luglio Al Cinema",
+      "game_title": "Al cinema",
       "game_publisher": "Universal Pictures"
     },
     "task_config_v2": {
@@ -58071,22 +58071,22 @@
           "target": 157,
           "assets": {
             "video": {
-              "url": "quests/1516569133238456510/1516866535803715836_1080.mp4",
+              "url": "quests/1516569133238456510/1516866520653762712_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516569133238456510/1516866484671090818.jpg"
+              "thumbnail": "quests/1516569133238456510/1516866471345782836.jpg"
             },
             "video_low_res": {
-              "url": "quests/1516569133238456510/1516866535803715836_720.mp4",
+              "url": "quests/1516569133238456510/1516866520653762712_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516569133238456510/1516866484671090818.jpg"
+              "thumbnail": "quests/1516569133238456510/1516866471345782836.jpg"
             },
             "video_hls": {
-              "url": "quests/1516569133238456510/1516866535803715836.m3u8",
+              "url": "quests/1516569133238456510/1516866520653762712.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516569133238456510/1516866484671090818.jpg"
+              "thumbnail": "quests/1516569133238456510/1516866471345782836.jpg"
             }
           },
           "messages": {
@@ -58098,22 +58098,22 @@
           "target": 158,
           "assets": {
             "video": {
-              "url": "quests/1516569133238456510/1516866536290255078_1080.mp4",
+              "url": "quests/1516569133238456510/1516866520230133961_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516569133238456510/1516866484671090818.jpg"
+              "thumbnail": "quests/1516569133238456510/1516866471345782836.jpg"
             },
             "video_low_res": {
-              "url": "quests/1516569133238456510/1516866536290255078_720.mp4",
+              "url": "quests/1516569133238456510/1516866520230133961_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516569133238456510/1516866484671090818.jpg"
+              "thumbnail": "quests/1516569133238456510/1516866471345782836.jpg"
             },
             "video_hls": {
-              "url": "quests/1516569133238456510/1516866536290255078.m3u8",
+              "url": "quests/1516569133238456510/1516866520230133961.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516569133238456510/1516866484671090818.jpg"
+              "thumbnail": "quests/1516569133238456510/1516866471345782836.jpg"
             }
           },
           "messages": {
@@ -58152,7 +58152,7 @@
     "cta_config": {
       "link": "https://www.universalpictures.it/micro/minions-3",
       "button_label": "Get Tickets",
-      "subtitle": "Dal 1° Luglio Al Cinema"
+      "subtitle": "Al cinema"
     }
   },
   "1516569975031333004": {
