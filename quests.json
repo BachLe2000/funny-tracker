@@ -58186,7 +58186,7 @@
     },
     "messages": {
       "quest_name": "Minions & Monsters ",
-      "game_title": "In cinemas Wednesday July 1 ",
+      "game_title": "In Cinemas Now",
       "game_publisher": "Universal Pictures"
     },
     "task_config_v2": {
@@ -58196,22 +58196,22 @@
           "target": 151,
           "assets": {
             "video": {
-              "url": "quests/1516569975031333004/1516880364788908112_1080.mp4",
+              "url": "quests/1516569975031333004/1516880378378457248_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516569975031333004/1516880335013412864.jpg"
+              "thumbnail": "quests/1516569975031333004/1516880323584065718.jpg"
             },
             "video_low_res": {
-              "url": "quests/1516569975031333004/1516880364788908112_720.mp4",
+              "url": "quests/1516569975031333004/1516880378378457248_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516569975031333004/1516880335013412864.jpg"
+              "thumbnail": "quests/1516569975031333004/1516880323584065718.jpg"
             },
             "video_hls": {
-              "url": "quests/1516569975031333004/1516880364788908112.m3u8",
+              "url": "quests/1516569975031333004/1516880378378457248.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1516569975031333004/1516880335013412864.jpg"
+              "thumbnail": "quests/1516569975031333004/1516880323584065718.jpg"
             }
           },
           "messages": {
@@ -58223,22 +58223,22 @@
           "target": 151,
           "assets": {
             "video": {
-              "url": "quests/1516569975031333004/1516880364902023431_1080.mp4",
+              "url": "quests/1516569975031333004/1516880378109886694_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516569975031333004/1516880335013412864.jpg"
+              "thumbnail": "quests/1516569975031333004/1516880323584065718.jpg"
             },
             "video_low_res": {
-              "url": "quests/1516569975031333004/1516880364902023431_720.mp4",
+              "url": "quests/1516569975031333004/1516880378109886694_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516569975031333004/1516880335013412864.jpg"
+              "thumbnail": "quests/1516569975031333004/1516880323584065718.jpg"
             },
             "video_hls": {
-              "url": "quests/1516569975031333004/1516880364902023431.m3u8",
+              "url": "quests/1516569975031333004/1516880378109886694.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1516569975031333004/1516880335013412864.jpg"
+              "thumbnail": "quests/1516569975031333004/1516880323584065718.jpg"
             }
           },
           "messages": {
@@ -58277,7 +58277,7 @@
     "cta_config": {
       "link": "https://www.universalpictures.co.uk/micro/minions-3#iframe1",
       "button_label": "Get Tickets",
-      "subtitle": "In cinemas Wednesday July 1 "
+      "subtitle": "In Cinemas Now"
     }
   },
   "1516567810669805718": {
