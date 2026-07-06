@@ -64411,5 +64411,257 @@
       "button_label": "Get Tickets",
       "subtitle": "Una película de Christopher Nolan. En cines el 16 de julio de 2026."
     }
+  },
+  "1521349567696605324": {
+    "config_version": 2,
+    "starts_at": "2026-07-06T15:30:00+00:00",
+    "expires_at": "2026-07-18T06:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://app.powster.com/universalstudios/the-odyssey-intl/ch",
+      "id": "1511317874277486652",
+      "name": "Charlies Tale - Part 3"
+    },
+    "assets": {
+      "hero": "quests/1521349567696605324/1521950396744990780.jpg",
+      "hero_video": "quests/1521349567696605324/1521950646729965578_720.mp4",
+      "quest_bar_hero_blurhash": "RRgCBIA5uIyIialAqnEqiqDUCQ==",
+      "quest_bar_hero": "quests/1521349567696605324/1521950382098747643.jpg",
+      "quest_bar_hero_video": "quests/1521349567696605324/1521950646729965578_720.mp4",
+      "game_tile": "1521951094887153845.png",
+      "logotype": "1521951092424966175.png",
+      "game_tile_light": "quests/1521349567696605324/1521950409252536453.png",
+      "game_tile_dark": "quests/1521349567696605324/1521950409252536453.png",
+      "logotype_light": "quests/1521349567696605324/1521950365870981270.png",
+      "logotype_dark": "quests/1521349567696605324/1521950365795487785.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Die Odyssee",
+      "game_title": "Ein Film von Christopher Nolan. Ab 16.07.26 nur im Kino!",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 10,
+          "applications": [
+            {
+              "id": "1511317874277486652"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "Die Odyssee",
+            "task_description": "Schliesse den Wettbewerb der Äxte ab und sichere dir 700 Discord Orbs"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-08-17T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://app.powster.com/universalstudios/the-odyssey-intl/ch",
+      "button_label": "Get Tickets",
+      "subtitle": "Ein Film von Christopher Nolan. Ab 16.07.26 nur im Kino!"
+    }
+  },
+  "1521364963959111860": {
+    "config_version": 2,
+    "starts_at": "2026-07-06T15:30:00+00:00",
+    "expires_at": "2026-07-18T06:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://litt.ly/theodysseymovie",
+      "id": "1511317874277486652",
+      "name": "Charlies Tale - Part 3"
+    },
+    "assets": {
+      "hero": "quests/1521364963959111860/1521920687067893822.jpg",
+      "hero_video": "quests/1521364963959111860/1521920523414802663_720.mp4",
+      "quest_bar_hero_blurhash": "RRgCBIA5uIyIialAqnEqiqDUCQ==",
+      "quest_bar_hero": "quests/1521364963959111860/1521920411791524022.jpg",
+      "quest_bar_hero_video": "quests/1521364963959111860/1521920523414802663_720.mp4",
+      "game_tile": "1521922139224277052.png",
+      "logotype": "1521922138079101108.png",
+      "game_tile_light": "quests/1521364963959111860/1521920440707055696.png",
+      "game_tile_dark": "quests/1521364963959111860/1521920440707055696.png",
+      "logotype_light": "quests/1521364963959111860/1521919398284365824.png",
+      "logotype_dark": "quests/1521364963959111860/1521919398284365824.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "오디세이",
+      "game_title": "크리스토퍼 놀란 감독 작품. 2026년 8월 5일 대개봉",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 10,
+          "applications": [
+            {
+              "id": "1511317874277486652"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "오디세이",
+            "task_description": "도끼 대결을 완료하고 700 Discord Orbs를 받아 가세요"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-08-17T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://litt.ly/theodysseymovie",
+      "button_label": "Learn More",
+      "subtitle": "크리스토퍼 놀란 감독 작품. 2026년 8월 5일 대개봉"
+    }
+  },
+  "1521338347816222911": {
+    "config_version": 2,
+    "starts_at": "2026-07-06T15:30:00+00:00",
+    "expires_at": "2026-07-18T06:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.odysseymovie.ca/",
+      "id": "1511317874277486652",
+      "name": "Charlies Tale - Part 3"
+    },
+    "assets": {
+      "hero": "quests/1521338347816222911/1521956015090958496.jpg",
+      "hero_video": "quests/1521338347816222911/1521956072531689632_720.mp4",
+      "quest_bar_hero_blurhash": "RRgCBIA5uIyIialAqnEqiqDUCQ==",
+      "quest_bar_hero": "quests/1521338347816222911/1521956003812474962.jpg",
+      "quest_bar_hero_video": "quests/1521338347816222911/1521956072531689632_720.mp4",
+      "game_tile": "1521956273522868426.png",
+      "logotype": "1521956272063381637.png",
+      "game_tile_light": "quests/1521338347816222911/1521956026612715680.png",
+      "game_tile_dark": "quests/1521338347816222911/1521956026612715680.png",
+      "logotype_light": "quests/1521338347816222911/1521955987978719252.png",
+      "logotype_dark": "quests/1521338347816222911/1521955989073694790.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "The Odyssey",
+      "game_title": "A film by Christopher Nolan. In theatres 7 17 26.",
+      "game_publisher": "Universal Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 10,
+          "applications": [
+            {
+              "id": "1511317874277486652"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "The Odyssey",
+            "task_description": "Complete the Contest of the Axes and earn 700 Discord Orbs"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-08-17T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.odysseymovie.ca/",
+      "button_label": "Get Tickets",
+      "subtitle": "A film by Christopher Nolan. In theatres 7 17 26."
+    }
   }
 }
