@@ -59325,7 +59325,7 @@
     "id": "1517198835024400514",
     "config_version": 2,
     "starts_at": "2026-06-23T17:00:00+00:00",
-    "expires_at": "2026-07-13T00:00:00+00:00",
+    "expires_at": "2026-07-20T00:00:00+00:00",
     "features": [
       15
     ],
@@ -59432,7 +59432,7 @@
           "premium_orb_quantity": 240
         }
       ],
-      "rewards_expire_at": "2026-08-12T00:00:00+00:00",
+      "rewards_expire_at": "2026-08-19T00:00:00+00:00",
       "platforms": [
         0
       ]
