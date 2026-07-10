@@ -52772,7 +52772,7 @@
     "id": "1509683146239512726",
     "config_version": 2,
     "starts_at": "2026-06-01T17:00:00+00:00",
-    "expires_at": "2026-07-13T06:59:00+00:00",
+    "expires_at": "2026-07-20T06:59:00+00:00",
     "features": [
       15
     ],
@@ -52782,10 +52782,10 @@
       "name": "Discord"
     },
     "assets": {
-      "hero": "quests/1509683146239512726/1516120266143699046.jpg",
+      "hero": "quests/1509683146239512726/1523742346712449244.jpg",
       "hero_video": "quests/1509683146239512726/1511382083510075472.mp4",
-      "quest_bar_hero_blurhash": "mscJJIYBuFd5iHiIaotGkHMFSg==",
-      "quest_bar_hero": "quests/1509683146239512726/1516122351278751866.jpg",
+      "quest_bar_hero_blurhash": "4igKGo6FZ2ZviIdoI7tA9kk=",
+      "quest_bar_hero": "quests/1509683146239512726/1523742346712449244.jpg",
       "quest_bar_hero_video": "quests/1509683146239512726/1511382083510075472.mp4",
       "game_tile": "1510024971651387603.png",
       "logotype": "1510024970380771578.png",
@@ -52810,19 +52810,19 @@
           "target": 39,
           "assets": {
             "video": {
-              "url": "quests/1509683146239512726/1516896198424924412_1080.mp4",
+              "url": "quests/1509683146239512726/1523741521730469958_1080.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1509683146239512726/1511094605280706703.jpg"
             },
             "video_low_res": {
-              "url": "quests/1509683146239512726/1516896198424924412_720.mp4",
+              "url": "quests/1509683146239512726/1523741521730469958_720.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1509683146239512726/1511094605280706703.jpg"
             },
             "video_hls": {
-              "url": "quests/1509683146239512726/1516896198424924412.m3u8",
+              "url": "quests/1509683146239512726/1523741521730469958.m3u8",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1509683146239512726/1511094605280706703.jpg"
@@ -52852,7 +52852,7 @@
           "premium_orb_quantity": 240
         }
       ],
-      "rewards_expire_at": "2026-08-12T06:59:00+00:00",
+      "rewards_expire_at": "2026-08-19T06:59:00+00:00",
       "platforms": [
         0
       ]
@@ -60501,7 +60501,7 @@
   "1520181992006619207": {
     "config_version": 2,
     "starts_at": "2026-06-29T17:00:00+00:00",
-    "expires_at": "2026-07-13T06:59:00+00:00",
+    "expires_at": "2026-07-20T06:59:00+00:00",
     "features": [
       15
     ],
@@ -60581,7 +60581,7 @@
           "premium_orb_quantity": null
         }
       ],
-      "rewards_expire_at": "2026-08-12T06:59:00+00:00",
+      "rewards_expire_at": "2026-08-19T06:59:00+00:00",
       "platforms": [
         0
       ]
