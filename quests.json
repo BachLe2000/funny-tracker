@@ -70140,5 +70140,89 @@
       "button_label": "View More",
       "subtitle": "En Cines este 17 de Septiembre. Filmada para IMAX"
     }
+  },
+  "1528814066599071825": {
+    "config_version": 2,
+    "starts_at": "2026-07-23T13:00:00+00:00",
+    "expires_at": "2026-08-06T00:00:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://www.sonypictures.co.uk/movies/resident-evil",
+      "id": "1519739684689805332",
+      "name": "Umbrella"
+    },
+    "assets": {
+      "hero": "quests/1528814066599071825/1529601802851582033.jpg",
+      "hero_video": "quests/1528814066599071825/1529725486282969208_720.mp4",
+      "quest_bar_hero_blurhash": "iRgGEoQwhXt2iKeVBZJmQFk=",
+      "quest_bar_hero": "quests/1528814066599071825/1529196713275949227.jpg",
+      "quest_bar_hero_video": "quests/1528814066599071825/1529725486282969208_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1528814066599071825/1529196590152290374.png",
+      "game_tile_dark": "quests/1528814066599071825/1529196590152290374.png",
+      "logotype_light": "quests/1528814066599071825/1529597080866132048.png",
+      "logotype_dark": "quests/1528814066599071825/1529597080866132048.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Resident Evil Trailer Experience",
+      "game_title": "Resident Evil Trailer Experience",
+      "game_publisher": "Sony Pictures"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 5,
+          "applications": [
+            {
+              "id": "1519739684689805332"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "Resident Evil Trailer Experience",
+            "task_description": "Watch the trailer for Zach Cregger’s Resident Evil, exclusively in theatres September 18"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-09-05T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.sonypictures.co.uk/movies/resident-evil",
+      "button_label": "Learn More",
+      "subtitle": "In Cinemas September 18.  Filmed for IMAX"
+    }
   }
 }
