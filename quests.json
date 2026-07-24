@@ -48054,7 +48054,6 @@
     }
   },
   "1499513010161713273": {
-    "id": "1499513010161713273",
     "config_version": 2,
     "starts_at": "2026-05-11T17:00:00+00:00",
     "expires_at": "2026-06-28T00:00:59+00:00",
@@ -48161,7 +48160,7 @@
             }
           },
           "orb_quantity": 200,
-          "premium_orb_quantity": 240
+          "premium_orb_quantity": null
         }
       ],
       "rewards_expire_at": "2026-07-28T00:00:59+00:00",
@@ -58529,7 +58528,6 @@
     }
   },
   "1516176546988298411": {
-    "id": "1516176546988298411",
     "config_version": 2,
     "starts_at": "2026-06-22T17:00:00+00:00",
     "expires_at": "2026-06-29T00:59:00+00:00",
@@ -58781,7 +58779,6 @@
     }
   },
   "1516908293681844456": {
-    "id": "1516908293681844456",
     "config_version": 2,
     "starts_at": "2026-06-22T17:00:00+00:00",
     "expires_at": "2026-07-13T06:59:00+00:00",
@@ -58861,7 +58858,7 @@
             }
           },
           "orb_quantity": 200,
-          "premium_orb_quantity": 240
+          "premium_orb_quantity": null
         }
       ],
       "rewards_expire_at": "2026-08-12T06:59:00+00:00",
@@ -62117,6 +62114,7 @@
     }
   },
   "1521257596403712182": {
+    "id": "1521257596403712182",
     "config_version": 2,
     "starts_at": "2026-07-03T17:00:00+00:00",
     "expires_at": "2026-07-20T06:59:00+00:00",
@@ -62196,7 +62194,7 @@
             }
           },
           "orb_quantity": 700,
-          "premium_orb_quantity": null
+          "premium_orb_quantity": 840
         }
       ],
       "rewards_expire_at": "2026-08-19T06:59:00+00:00",
@@ -66796,7 +66794,6 @@
     }
   },
   "1524110116436185188": {
-    "id": "1524110116436185188",
     "config_version": 2,
     "starts_at": "2026-07-15T16:00:00+00:00",
     "expires_at": "2026-07-23T06:59:00+00:00",
@@ -66902,7 +66899,7 @@
             }
           },
           "orb_quantity": 200,
-          "premium_orb_quantity": 240
+          "premium_orb_quantity": null
         }
       ],
       "rewards_expire_at": "2026-08-22T06:59:00+00:00",
@@ -68226,7 +68223,6 @@
     }
   },
   "1521294642631409845": {
-    "id": "1521294642631409845",
     "config_version": 2,
     "starts_at": "2026-07-20T17:00:00+00:00",
     "expires_at": "2026-07-31T00:00:00+00:00",
@@ -68333,7 +68329,7 @@
             }
           },
           "orb_quantity": 200,
-          "premium_orb_quantity": 240
+          "premium_orb_quantity": null
         }
       ],
       "rewards_expire_at": "2026-08-30T00:00:00+00:00",
@@ -69543,7 +69539,6 @@
     }
   },
   "1525222987165597817": {
-    "id": "1525222987165597817",
     "config_version": 2,
     "starts_at": "2026-07-22T17:00:00+00:00",
     "expires_at": "2026-08-05T00:00:00+00:00",
@@ -69615,7 +69610,7 @@
             }
           },
           "orb_quantity": 700,
-          "premium_orb_quantity": 840
+          "premium_orb_quantity": null
         }
       ],
       "rewards_expire_at": "2026-09-04T00:00:00+00:00",
