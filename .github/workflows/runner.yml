@@ -27,6 +27,7 @@ jobs:
           WEBHOOK_URL: ${{ secrets.MAIN_WEBHOOK }}
           ERROR_WEBHOOK_URL: ${{ secrets.ERROR_WEBHOOK }}
           PING_ROLE_ID: ${{ secrets.PING_ROLE_ID }}
+          UPDATE_WEBHOOK_URL: ${{ secrets.UPDATE_WEBHOOK }}
           LOCALE: vi
 
       - name: whynot
