@@ -21,13 +21,13 @@ jobs:
           curl -o main.js "${{ secrets.GIST_RAW_URL }}"
 
       - name: thinker
-        run: |
-          node main.js \
-            --token "${{ secrets.DISCORD_TOKEN }}" \
-            --webhook "${{ secrets.MAIN_WEBHOOK }}" \
-            --error-webhook "${{ secrets.ERROR_WEBHOOK }}" \
-            --ping-role "${{ secrets.PING_ROLE_ID }}" \
-            --locale vi
+        run: node main.js
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+          WEBHOOK_URL: ${{ secrets.MAIN_WEBHOOK }}
+          ERROR_WEBHOOK_URL: ${{ secrets.ERROR_WEBHOOK }}
+          PING_ROLE_ID: ${{ secrets.PING_ROLE_ID }}
+          LOCALE: vi
 
       - name: whynot
         run: |
