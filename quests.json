@@ -51723,19 +51723,19 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1508881025604911104/1509335285031243926_1080.mp4",
+              "url": "quests/1508881025604911104/1509335285048283156_1080.mp4",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1508881025604911104/1509335285031501905.png"
             },
             "video_low_res": {
-              "url": "quests/1508881025604911104/1509335285031243926_720.mp4",
+              "url": "quests/1508881025604911104/1509335285048283156_720.mp4",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1508881025604911104/1509335285031501905.png"
             },
             "video_hls": {
-              "url": "quests/1508881025604911104/1509335285031243926.m3u8",
+              "url": "quests/1508881025604911104/1509335285048283156.m3u8",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1508881025604911104/1509335285031501905.png"
@@ -51750,19 +51750,19 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1508881025604911104/1509335285069254656_1080.mp4",
+              "url": "quests/1508881025604911104/1509335285119320184_1080.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1508881025604911104/1509335285031501905.png"
             },
             "video_low_res": {
-              "url": "quests/1508881025604911104/1509335285069254656_720.mp4",
+              "url": "quests/1508881025604911104/1509335285119320184_720.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1508881025604911104/1509335285031501905.png"
             },
             "video_hls": {
-              "url": "quests/1508881025604911104/1509335285069254656.m3u8",
+              "url": "quests/1508881025604911104/1509335285119320184.m3u8",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1508881025604911104/1509335285031501905.png"
@@ -57550,11 +57550,11 @@
       "quest_bar_hero": "quests/1512301902870745088/1512534984538460401.jpg",
       "quest_bar_hero_video": "quests/1512301902870745088/1512534984705970287.mp4",
       "game_tile": "1512535124481413181.jpg",
-      "logotype": "1512535123394953237.png",
+      "logotype": "1517706647391309925.png",
       "game_tile_light": "quests/1512301902870745088/1512534985192505424.jpg",
       "game_tile_dark": "quests/1512301902870745088/1512534985192505424.jpg",
-      "logotype_light": "quests/1512301902870745088/1512534984563494952.png",
-      "logotype_dark": "quests/1512301902870745088/1512534985154756719.png"
+      "logotype_light": "quests/1512301902870745088/1517706608207990865.png",
+      "logotype_dark": "quests/1512301902870745088/1517706357913157793.png"
     },
     "colors": {
       "primary": "#4752C4",
@@ -57700,19 +57700,19 @@
           "target": 59,
           "assets": {
             "video": {
-              "url": "quests/1517307281123971183/1517535278561099927_1080.mp4",
+              "url": "quests/1517307281123971183/1517543449581195294_1080.mp4",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1517307281123971183/1517543348166987776.png"
             },
             "video_low_res": {
-              "url": "quests/1517307281123971183/1517535278561099927_720.mp4",
+              "url": "quests/1517307281123971183/1517543449581195294_720.mp4",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1517307281123971183/1517543348166987776.png"
             },
             "video_hls": {
-              "url": "quests/1517307281123971183/1517535278561099927.m3u8",
+              "url": "quests/1517307281123971183/1517543449581195294.m3u8",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1517307281123971183/1517543348166987776.png"
@@ -57727,19 +57727,19 @@
           "target": 59,
           "assets": {
             "video": {
-              "url": "quests/1517307281123971183/1517534794873835591_1080.mp4",
+              "url": "quests/1517307281123971183/1517534771411030056_1080.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1517307281123971183/1517543348166987776.png"
             },
             "video_low_res": {
-              "url": "quests/1517307281123971183/1517534794873835591_720.mp4",
+              "url": "quests/1517307281123971183/1517534771411030056_720.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1517307281123971183/1517543348166987776.png"
             },
             "video_hls": {
-              "url": "quests/1517307281123971183/1517534794873835591.m3u8",
+              "url": "quests/1517307281123971183/1517534771411030056.m3u8",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1517307281123971183/1517543348166987776.png"
@@ -58679,8 +58679,8 @@
       "logotype": "1516894975844155562.png",
       "game_tile_light": "quests/1516561474498203728/1516894594556493945.png",
       "game_tile_dark": "quests/1516561474498203728/1516894595282374927.png",
-      "logotype_light": "quests/1516561474498203728/1516894553603309649.png",
-      "logotype_dark": "quests/1516561474498203728/1516894553968345108.png"
+      "logotype_light": "quests/1516561474498203728/1524953151189553192.png",
+      "logotype_dark": "quests/1516561474498203728/1524953150979838002.png"
     },
     "colors": {
       "primary": "#4752C4",
@@ -58796,10 +58796,10 @@
       "name": "Discord"
     },
     "assets": {
-      "hero": "quests/1516908293681844456/1518460264834662461.jpg",
+      "hero": "quests/1516908293681844456/1524085641711976539.jpg",
       "hero_video": "quests/1516908293681844456/1518460531516641341_720.mp4",
-      "quest_bar_hero_blurhash": "FAgKEoIDlXhdhniXD2JWBC8=",
-      "quest_bar_hero": "quests/1516908293681844456/1518460264834662461.jpg",
+      "quest_bar_hero_blurhash": "SAgKEoIIyDd2eId4CHiXkHc=",
+      "quest_bar_hero": "quests/1516908293681844456/1524085641711976539.jpg",
       "quest_bar_hero_video": "quests/1516908293681844456/1518460381784313976_720.mp4",
       "game_tile": "1518460708415602728.png",
       "logotype": "1518460707484471487.png",
@@ -58824,19 +58824,19 @@
           "target": 58,
           "assets": {
             "video": {
-              "url": "quests/1516908293681844456/1518460803651735642_1080.mp4",
+              "url": "quests/1516908293681844456/1522341602062762044_1080.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1516908293681844456/1518461798733320302.png"
             },
             "video_low_res": {
-              "url": "quests/1516908293681844456/1518460803651735642_720.mp4",
+              "url": "quests/1516908293681844456/1522341602062762044_720.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1516908293681844456/1518461798733320302.png"
             },
             "video_hls": {
-              "url": "quests/1516908293681844456/1518460803651735642.m3u8",
+              "url": "quests/1516908293681844456/1522341602062762044.m3u8",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1516908293681844456/1518461798733320302.png"
@@ -60321,21 +60321,21 @@
           "target": 118,
           "assets": {
             "video": {
-              "url": "quests/1519897790417731634/1521165875250593882_1080.mp4",
-              "width": 1920,
-              "height": 1080,
+              "url": "quests/1519897790417731634/1521906553379229887_1080.mp4",
+              "width": 1080,
+              "height": 1920,
               "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
             },
             "video_low_res": {
-              "url": "quests/1519897790417731634/1521165875250593882_720.mp4",
-              "width": 1920,
-              "height": 1080,
+              "url": "quests/1519897790417731634/1521906553379229887_720.mp4",
+              "width": 1080,
+              "height": 1920,
               "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
             },
             "video_hls": {
-              "url": "quests/1519897790417731634/1521165875250593882.m3u8",
-              "width": 1920,
-              "height": 1080,
+              "url": "quests/1519897790417731634/1521906553379229887.m3u8",
+              "width": 1080,
+              "height": 1920,
               "thumbnail": "quests/1519897790417731634/1519900165018878159.jpg"
             }
           },
@@ -60417,19 +60417,19 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1518683615360319568/1520114065798725722_1080.mp4",
+              "url": "quests/1518683615360319568/1520114102083780638_1080.mp4",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
             },
             "video_low_res": {
-              "url": "quests/1518683615360319568/1520114065798725722_720.mp4",
+              "url": "quests/1518683615360319568/1520114102083780638_720.mp4",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
             },
             "video_hls": {
-              "url": "quests/1518683615360319568/1520114065798725722.m3u8",
+              "url": "quests/1518683615360319568/1520114102083780638.m3u8",
               "width": 1920,
               "height": 1080,
               "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
@@ -60444,19 +60444,19 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1518683615360319568/1520114426231914516_1080.mp4",
+              "url": "quests/1518683615360319568/1520114452459028480_1080.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
             },
             "video_low_res": {
-              "url": "quests/1518683615360319568/1520114426231914516_720.mp4",
+              "url": "quests/1518683615360319568/1520114452459028480_720.mp4",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
             },
             "video_hls": {
-              "url": "quests/1518683615360319568/1520114426231914516.m3u8",
+              "url": "quests/1518683615360319568/1520114452459028480.m3u8",
               "width": 1080,
               "height": 1920,
               "thumbnail": "quests/1518683615360319568/1519450504940490782.jpg"
@@ -60707,7 +60707,7 @@
       15
     ],
     "application": {
-      "link": "https://www.warnerbroshorror.com/evildeadburn/",
+      "link": "https://www.fandango.com/evil-dead-burn-2026-244793/movie-overview",
       "id": "545364944258990091",
       "name": "Discord"
     },
@@ -60819,7 +60819,7 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
-      "link": "https://www.warnerbroshorror.com/evildeadburn/",
+      "link": "https://www.fandango.com/evil-dead-burn-2026-244793/movie-overview",
       "button_label": "Get Tickets",
       "subtitle": "Evil Dead Burn opening July 10"
     }
@@ -62125,7 +62125,6 @@
     }
   },
   "1521257596403712182": {
-    "id": "1521257596403712182",
     "config_version": 2,
     "starts_at": "2026-07-03T17:00:00+00:00",
     "expires_at": "2026-07-20T06:59:00+00:00",
@@ -62205,7 +62204,7 @@
             }
           },
           "orb_quantity": 700,
-          "premium_orb_quantity": 840
+          "premium_orb_quantity": null
         }
       ],
       "rewards_expire_at": "2026-08-19T06:59:00+00:00",
@@ -62328,6 +62327,7 @@
     },
     "assets": {
       "hero": "quests/1521604131435843767/1521606249836187762.jpg",
+      "hero_video": "quests/1521604131435843767/1521610559701647512_720.mp4",
       "quest_bar_hero_blurhash": "CggGDIILUqylemdTqmWer/DeGQ==",
       "quest_bar_hero": "quests/1521604131435843767/1521619529388527616.jpg",
       "quest_bar_hero_video": "quests/1521604131435843767/1521610559701647512_720.mp4",
@@ -64576,7 +64576,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://litt.ly/theodysseymovie",
-      "button_label": "Learn More",
+      "button_label": "Get Tickets",
       "subtitle": "크리스토퍼 놀란 감독 작품. 2026년 8월 5일 대개봉"
     }
   },
@@ -65388,7 +65388,7 @@
       15
     ],
     "application": {
-      "link": "https://nte.onelink.me/RX86/Event_West_12",
+      "link": "https://nte.onelink.me/B2ti/DA_ahq_1",
       "id": "1470616226995765409",
       "name": "Neverness to Everness"
     },
@@ -65452,7 +65452,7 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
-      "link": "https://nte.onelink.me/RX86/Event_West_12",
+      "link": "https://nte.onelink.me/B2ti/DA_ahq_1",
       "button_label": "Play Now"
     }
   },
@@ -65471,6 +65471,7 @@
     },
     "assets": {
       "hero": "quests/1523830532302045285/1523831681969029180.jpg",
+      "hero_video": "quests/1523830532302045285/1523831750638309527_720.mp4",
       "quest_bar_hero_blurhash": "JbYJJIT1dpc6eohDhopFVlBiBA==",
       "quest_bar_hero": "quests/1523830532302045285/1524440085817196756.jpg",
       "quest_bar_hero_video": "quests/1523830532302045285/1523831750638309527_720.mp4",
@@ -65546,6 +65547,7 @@
     },
     "assets": {
       "hero": "quests/1523830532302045285/1524108180513095760.jpg",
+      "hero_video": "quests/1523830532302045285/1524108440711073822_720.mp4",
       "quest_bar_hero_blurhash": "iggGFIQLzIl0eGlVVoRrgJsI6A==",
       "quest_bar_hero": "quests/1523830532302045285/1524108376093622302.jpg",
       "quest_bar_hero_video": "quests/1523830532302045285/1524108440711073822_720.mp4",
@@ -69556,7 +69558,7 @@
     "cta_config": {
       "link": "https://lu4.org/?utm_source=discord&utm_medium=ds_ads&utm_campaign=lu4_promo_alpha",
       "button_label": "Play",
-      "subtitle": "Alpha Test on Unreal Engine 5 — July 22"
+      "subtitle": "Alpha Test on Unreal Engine 5 — July 31"
     }
   },
   "1525222987165597817": {
