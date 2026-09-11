@@ -82368,7 +82368,7 @@
     },
     "messages": {
       "quest_name": "The Uprising",
-      "game_title": "The Uprising | Only In Theaters September 10",
+      "game_title": "The Uprising | In Theaters Now",
       "game_publisher": "Focus Features"
     },
     "task_config_v2": {
@@ -82416,7 +82416,7 @@
     "cta_config": {
       "link": "https://theuprising.movie",
       "button_label": "Get Tickets",
-      "subtitle": "The Uprising | Only In Theaters September 10"
+      "subtitle": "The Uprising | In Theaters Now"
     }
   },
   "1545079125243600947": {
