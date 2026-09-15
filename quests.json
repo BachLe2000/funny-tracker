@@ -83771,7 +83771,7 @@
       15
     ],
     "application": {
-      "link": "https://dragonwilds.runescape.com/",
+      "link": "https://dragonwilds.runescape.com/platforms",
       "id": "1534951967250452680",
       "name": "[Prod] Dark Queen"
     },
@@ -83840,8 +83840,8 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
-      "link": "https://dragonwilds.runescape.com/",
-      "button_label": "Wishlist Now"
+      "link": "https://dragonwilds.runescape.com/platforms",
+      "button_label": "Get Game"
     }
   },
   "1544804322213232822": {
