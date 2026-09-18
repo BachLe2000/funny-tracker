@@ -90584,7 +90584,7 @@
       15
     ],
     "application": {
-      "link": "https://warthunder.com/en",
+      "link": "https://warthunder.com/play4free?r=discord",
       "id": "357607478105604096",
       "name": "War Thunder"
     },
@@ -90668,7 +90668,7 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
-      "link": "https://warthunder.com/en",
+      "link": "https://warthunder.com/play4free?r=discord",
       "button_label": "Play Now"
     }
   },
