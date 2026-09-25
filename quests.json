@@ -77178,7 +77178,7 @@
     "id": "1540084308683784265",
     "config_version": 2,
     "starts_at": "2026-08-21T17:00:00+00:00",
-    "expires_at": "2026-10-02T06:59:00+00:00",
+    "expires_at": "2026-09-25T06:59:00+00:00",
     "features": [
       44,
       15
@@ -77258,7 +77258,7 @@
           "premium_orb_quantity": 240
         }
       ],
-      "rewards_expire_at": "2026-11-01T06:59:00+00:00",
+      "rewards_expire_at": "2026-10-25T06:59:00+00:00",
       "platforms": [
         0
       ]
@@ -91301,7 +91301,7 @@
     "id": "1549427687603314699",
     "config_version": 2,
     "starts_at": "2026-09-18T17:00:00+00:00",
-    "expires_at": "2026-10-01T00:00:00+00:00",
+    "expires_at": "2026-09-25T00:00:00+00:00",
     "features": [
       44,
       15
@@ -91382,7 +91382,7 @@
           "premium_orb_quantity": 240
         }
       ],
-      "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+      "rewards_expire_at": "2026-10-25T00:00:00+00:00",
       "platforms": [
         0
       ]
