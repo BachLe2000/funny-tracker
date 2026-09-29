@@ -52772,7 +52772,7 @@
     "id": "1509683146239512726",
     "config_version": 2,
     "starts_at": "2026-06-01T17:00:00+00:00",
-    "expires_at": "2026-09-29T06:59:00+00:00",
+    "expires_at": "2026-10-06T06:59:00+00:00",
     "features": [
       44,
       15
@@ -52853,7 +52853,7 @@
           "premium_orb_quantity": 240
         }
       ],
-      "rewards_expire_at": "2026-10-29T06:59:00+00:00",
+      "rewards_expire_at": "2026-11-05T06:59:00+00:00",
       "platforms": [
         0
       ]
@@ -93160,7 +93160,7 @@
     "id": "1539421708417765386",
     "config_version": 2,
     "starts_at": "2026-09-22T17:00:00+00:00",
-    "expires_at": "2026-10-01T00:00:00+00:00",
+    "expires_at": "2026-09-28T23:45:00+00:00",
     "features": [
       15
     ],
@@ -93222,7 +93222,7 @@
           "premium_orb_quantity": 840
         }
       ],
-      "rewards_expire_at": "2026-10-31T00:00:00+00:00",
+      "rewards_expire_at": "2026-10-28T23:45:00+00:00",
       "platforms": [
         0
       ]
@@ -95220,6 +95220,188 @@
     "share_policy": "not_shareable",
     "cta_config": {
       "link": "https://tv.apple.com/us/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_30000&itsct=atvp_brand_omd&mttn3pid=Discord&mttnagencyid=a5e&mttncc=US&mttnsiteid=143238&mttnsubad=07423618",
+      "button_label": "View More",
+      "subtitle": "Streaming October 9"
+    }
+  },
+  "1552790924445356043": {
+    "config_version": 2,
+    "starts_at": "2026-09-28T17:00:00+00:00",
+    "expires_at": "2026-10-08T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://connect-hellraiser.saber.games/DiscordPlayQuest",
+      "id": "1552168352116641822",
+      "name": "Hellraiser: Revival"
+    },
+    "assets": {
+      "hero": "quests/1552790924445356043/1552792117854601327.jpg",
+      "quest_bar_hero_blurhash": "SvcFDIChiJiHpYSQeIQPeb6C9g==",
+      "quest_bar_hero": "quests/1552790924445356043/1552792064104726708.jpg",
+      "quest_bar_hero_video": "quests/1552790924445356043/1553086271683825704_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1552790924445356043/1552791916662231160.png",
+      "game_tile_dark": "quests/1552790924445356043/1552791916662231160.png",
+      "logotype_light": "quests/1552790924445356043/1552791996790214736.png",
+      "logotype_dark": "quests/1552790924445356043/1552791996790214736.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Clive Barker's Hellraiser: Revival ",
+      "game_title": "Clive Barker's Hellraiser: Revival (free demo)",
+      "game_publisher": "Saber Interactive"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1552168352116641822"
+            }
+          ]
+        },
+        "PLAY_ON_XBOX": {
+          "type": "PLAY_ON_XBOX",
+          "target": 900,
+          "applications": [
+            {
+              "id": "1552168352116641822"
+            }
+          ],
+          "external_ids": []
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-07T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://connect-hellraiser.saber.games/DiscordPlayQuest",
+      "button_label": "Get Game"
+    }
+  },
+  "1552698676017766541": {
+    "config_version": 2,
+    "starts_at": "2026-09-28T16:00:00+00:00",
+    "expires_at": "2026-10-09T16:59:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433707",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1549819328193364061/1551415313474789456.jpg",
+      "quest_bar_hero_blurhash": "pAgKIoh/lnc+aWh3NUBGBGQ=",
+      "quest_bar_hero": "quests/1549819328193364061/1551415313474789456.jpg",
+      "quest_bar_hero_video": "quests/1552698676017766541/1552705302003060816_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1549819328193364061/1551415134751162448.png",
+      "game_tile_dark": "quests/1549819328193364061/1551415134751162448.png",
+      "logotype_light": "quests/1552698676017766541/1553171816137101382.png",
+      "logotype_dark": "quests/1552698676017766541/1553171816137101382.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Matchbox The Movie",
+      "game_title": "Streaming October 9",
+      "game_publisher": "Apple TV"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 29,
+          "assets": {
+            "video": {
+              "url": "quests/1552698676017766541/1552702892736249856_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+            },
+            "video_low_res": {
+              "url": "quests/1552698676017766541/1552702892736249856_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+            },
+            "video_hls": {
+              "url": "quests/1552698676017766541/1552702892736249856.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1549819328193364061/1551415855454228510.jpg"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 3,
+          "sku_id": "1553093599992746004",
+          "asset": "quests/1552698676017766541/1553179715479797860.mp4",
+          "asset_video": null,
+          "messages": {
+            "name": "Matchbox Land Rover 6x6 Avatar Decoration",
+            "name_with_article": "a Matchbox Land Rover 6x6 Avatar Decoration",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "expires_at": "2026-12-10T00:00:00+00:00",
+          "expires_at_premium": null,
+          "expiration_mode": 3
+        }
+      ],
+      "rewards_expire_at": "2026-11-08T16:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "not_shareable",
+    "cta_config": {
+      "link": "https://tv.apple.com/ca/movie/matchbox-the-movie/umc.cmc.31qa8j1tn2cnpyk3fx43w928d?itscg=MC_10000&itsct=atvp_brand_omd&mttn3pid=innovid&mttnagencyid=a5e&mttncc=CA&mttnsiteid=143238&mttnsubad=07433707",
       "button_label": "View More",
       "subtitle": "Streaming October 9"
     }
