@@ -97073,5 +97073,445 @@
       "button_label": "Get Tickets",
       "subtitle": "IN CINEMAS OCTOBER 16"
     }
+  },
+  "1555158122522349568": {
+    "id": "1555158122522349568",
+    "config_version": 2,
+    "starts_at": "2026-10-05T17:00:00+00:00",
+    "expires_at": "2026-10-20T00:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://melonsandbox.com/",
+      "id": "545364944258990091",
+      "name": "Discord"
+    },
+    "assets": {
+      "hero": "quests/1555158122522349568/1555507743421374524.jpg",
+      "quest_bar_hero_blurhash": "YugFPwJYiaifaHeOiRhoOKhpdghIemAI",
+      "quest_bar_hero": "quests/1555158122522349568/1555507763629662219.jpg",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1555158122522349568/1555506290095169536.jpg",
+      "game_tile_dark": "quests/1555158122522349568/1555506290095169536.jpg",
+      "logotype_light": "quests/1555158122522349568/1555507671711359107.png",
+      "logotype_dark": "quests/1555158122522349568/1555507671711359107.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Melon Sandbox",
+      "game_title": "Melon Sandbox",
+      "game_publisher": "Playducky"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "WATCH_VIDEO": {
+          "type": "WATCH_VIDEO",
+          "target": 40,
+          "assets": {
+            "video": {
+              "url": "quests/1555158122522349568/1555508071843889232_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            },
+            "video_low_res": {
+              "url": "quests/1555158122522349568/1555508071843889232_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            },
+            "video_hls": {
+              "url": "quests/1555158122522349568/1555508071843889232.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        },
+        "WATCH_VIDEO_ON_MOBILE": {
+          "type": "WATCH_VIDEO_ON_MOBILE",
+          "target": 40,
+          "assets": {
+            "video": {
+              "url": "quests/1555158122522349568/1555508071843889232_1080.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            },
+            "video_low_res": {
+              "url": "quests/1555158122522349568/1555508071843889232_720.mp4",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            },
+            "video_hls": {
+              "url": "quests/1555158122522349568/1555508071843889232.m3u8",
+              "width": 1080,
+              "height": 1920,
+              "thumbnail": "quests/1555158122522349568/1555508460442091580.png"
+            }
+          },
+          "messages": {
+            "video_title": "PLACEHOLDER"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "200 Orbs",
+            "name_with_article": "200 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 200,
+          "premium_orb_quantity": 240
+        }
+      ],
+      "rewards_expire_at": "2026-11-19T00:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "android": {
+        "android_app_id": "com.studio27.MelonPlayground"
+      },
+      "ios": {
+        "ios_app_id": "1610874732"
+      },
+      "link": "https://melonsandbox.com/",
+      "button_label": "Download"
+    }
+  },
+  "1551980739757736078": {
+    "id": "1551980739757736078",
+    "config_version": 2,
+    "starts_at": "2026-10-05T16:00:00+00:00",
+    "expires_at": "2026-10-16T06:59:00+00:00",
+    "features": [
+      27,
+      36,
+      15
+    ],
+    "application": {
+      "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+      "id": "1536318183873454090",
+      "name": "Spades"
+    },
+    "assets": {
+      "hero": "quests/1551980739757736078/1553076626533916793.jpg",
+      "hero_video": "quests/1551980739757736078/1553077149986983946.mp4",
+      "quest_bar_hero_blurhash": "zOYJKoJgeVqTeWeIr124/pY=",
+      "quest_bar_hero": "quests/1551980739757736078/1553076626533916793.jpg",
+      "quest_bar_hero_video": "quests/1551980739757736078/1553077149986983946.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1551980739757736078/1553076354797539368.png",
+      "game_tile_dark": "quests/1551980739757736078/1553076354797539368.png",
+      "logotype_light": "quests/1551980739757736078/1553076553162821762.png",
+      "logotype_dark": "quests/1551980739757736078/1553076355221028954.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "VALORANT Aces Round 2",
+      "game_title": "VALORANT",
+      "game_publisher": "Riot Games"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "ACHIEVEMENT_IN_ACTIVITY": {
+          "type": "ACHIEVEMENT_IN_ACTIVITY",
+          "target": 1,
+          "applications": [
+            {
+              "id": "1536318183873454090"
+            }
+          ],
+          "event_name": "progress",
+          "messages": {
+            "task_title": "Take the shot. Beat the clock. Find the ACE.",
+            "task_description": "Run it back and relive some of the greatest plays in VALORANT esports, but this time YOU'RE in the driver's seat. Can you ACE it?"
+          }
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": 840
+        }
+      ],
+      "rewards_expire_at": "2026-11-15T06:59:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://playvalorant.com/?utm_source=discord&utm_medium=paid&utm_campaign=valaces2026",
+      "button_label": "Play Free Now",
+      "subtitle": "VALORANT Aces"
+    }
+  },
+  "1555654330043076719": {
+    "id": "1555654330043076719",
+    "config_version": 2,
+    "starts_at": "2026-10-05T16:00:00+00:00",
+    "expires_at": "2026-10-15T06:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.roblox.com/games/6516141723/DOORS?gsrbx=1",
+      "id": "363445589247131668",
+      "name": "Roblox"
+    },
+    "assets": {
+      "hero": "quests/1555654330043076719/1555678328571166730.jpg",
+      "hero_video": "quests/1555654330043076719/1555678732595888188_720.mp4",
+      "quest_bar_hero_blurhash": "zBcKAoJUmHd/iZiYGqRg0Cg=",
+      "quest_bar_hero": "quests/1555654330043076719/1555678328571166730.jpg",
+      "quest_bar_hero_video": "quests/1555654330043076719/1555678732595888188_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+      "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+      "logotype_light": "quests/1555654330043076719/1555681906786435162.png",
+      "logotype_dark": "quests/1555654330043076719/1555681675927887883.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Doors",
+      "game_title": "Doors on Roblox",
+      "game_publisher": "ROBLOX"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "363445589247131668"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": 840
+        }
+      ],
+      "rewards_expire_at": "2026-11-14T06:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.roblox.com/games/6516141723/DOORS?gsrbx=1",
+      "button_label": "Play Now"
+    }
+  },
+  "1555709543579783198": {
+    "config_version": 2,
+    "starts_at": "2026-10-05T16:00:00+00:00",
+    "expires_at": "2026-10-15T06:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.roblox.com/de/games/6516141723/DOORS?gsrbx=1",
+      "id": "363445589247131668",
+      "name": "Roblox"
+    },
+    "assets": {
+      "hero": "quests/1555709543579783198/1555721055878778981.jpg",
+      "hero_video": "quests/1555709543579783198/1555722338618712245_720.mp4",
+      "quest_bar_hero_blurhash": "zBcKAoJUmHd/iZiYGqRg0Cg=",
+      "quest_bar_hero": "quests/1555709543579783198/1555720882855608320.jpg",
+      "quest_bar_hero_video": "quests/1555709543579783198/1555722338618712245_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1555709543579783198/1555720811464364193.png",
+      "game_tile_dark": "quests/1555709543579783198/1555720842288169072.png",
+      "logotype_light": "quests/1555709543579783198/1555720935594659900.png",
+      "logotype_dark": "quests/1555709543579783198/1555720935644991659.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Doors",
+      "game_title": "Doors on Roblox",
+      "game_publisher": "ROBLOX"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "363445589247131668"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-14T06:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.roblox.com/de/games/6516141723/DOORS?gsrbx=1",
+      "button_label": "Get Game"
+    }
+  },
+  "1555684816882499675": {
+    "config_version": 2,
+    "starts_at": "2026-10-05T16:00:00+00:00",
+    "expires_at": "2026-10-15T06:00:00+00:00",
+    "features": [
+      15
+    ],
+    "application": {
+      "link": "https://www.roblox.com/games/6516141723/DOORS?gsrbx=1",
+      "id": "363445589247131668",
+      "name": "Roblox"
+    },
+    "assets": {
+      "hero": "quests/1555654330043076719/1555678328571166730.jpg",
+      "hero_video": "quests/1555654330043076719/1555678732595888188_720.mp4",
+      "quest_bar_hero_blurhash": "zBcKAoJUmHd/iZiYGqRg0Cg=",
+      "quest_bar_hero": "quests/1555654330043076719/1555678328571166730.jpg",
+      "quest_bar_hero_video": "quests/1555654330043076719/1555678732595888188_720.mp4",
+      "game_tile": "PLACEHOLDER",
+      "logotype": "PLACEHOLDER",
+      "game_tile_light": "quests/1545079125243600947/1545080582759907378.png",
+      "game_tile_dark": "quests/1545079125243600947/1545080582352937011.png",
+      "logotype_light": "quests/1555654330043076719/1555681906786435162.png",
+      "logotype_dark": "quests/1555654330043076719/1555681675927887883.png"
+    },
+    "colors": {
+      "primary": "#4752C4",
+      "secondary": "#000000"
+    },
+    "messages": {
+      "quest_name": "Doors",
+      "game_title": "Doors on Roblox",
+      "game_publisher": "ROBLOX"
+    },
+    "task_config_v2": {
+      "tasks": {
+        "PLAY_ON_DESKTOP": {
+          "type": "PLAY_ON_DESKTOP",
+          "target": 900,
+          "applications": [
+            {
+              "id": "363445589247131668"
+            }
+          ]
+        }
+      },
+      "join_operator": "or"
+    },
+    "rewards_config": {
+      "assignment_method": 1,
+      "rewards": [
+        {
+          "type": 4,
+          "sku_id": "1287881739531976815",
+          "messages": {
+            "name": "700 Orbs",
+            "name_with_article": "700 Orbs",
+            "redemption_instructions_by_platform": {
+              "0": "PLACEHOLDER"
+            }
+          },
+          "orb_quantity": 700,
+          "premium_orb_quantity": null
+        }
+      ],
+      "rewards_expire_at": "2026-11-14T06:00:00+00:00",
+      "platforms": [
+        0
+      ]
+    },
+    "share_policy": "shareable_everywhere",
+    "cta_config": {
+      "link": "https://www.roblox.com/games/6516141723/DOORS?gsrbx=1",
+      "button_label": "Play Now"
+    }
   }
 }
