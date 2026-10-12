@@ -99703,6 +99703,7 @@
     }
   },
   "1555710921614163989": {
+    "id": "1555710921614163989",
     "config_version": 2,
     "starts_at": "2026-10-09T23:35:00+00:00",
     "expires_at": "2026-10-19T00:00:00+00:00",
@@ -99733,7 +99734,7 @@
     },
     "messages": {
       "quest_name": "Vision",
-      "game_title": "Stream VisionQuest on October 14, only on Disney+",
+      "game_title": "Stream VisionQuest this Wednesday, only on Disney+",
       "game_publisher": "Disney+"
     },
     "task_config_v2": {
@@ -99743,22 +99744,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1555710921614163989/1555715954644754432_1080.mp4",
+              "url": "quests/1555710921614163989/1558259087953633491_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+              "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
             },
             "video_low_res": {
-              "url": "quests/1555710921614163989/1555715954644754432_720.mp4",
+              "url": "quests/1555710921614163989/1558259087953633491_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+              "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
             },
             "video_hls": {
-              "url": "quests/1555710921614163989/1555715954644754432.m3u8",
+              "url": "quests/1555710921614163989/1558259087953633491.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+              "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
             }
           },
           "messages": {
@@ -99770,22 +99771,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1555710921614163989/1555715655112728576_1080.mp4",
+              "url": "quests/1555710921614163989/1558259095415300116_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+              "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
             },
             "video_low_res": {
-              "url": "quests/1555710921614163989/1555715655112728576_720.mp4",
+              "url": "quests/1555710921614163989/1558259095415300116_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+              "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
             },
             "video_hls": {
-              "url": "quests/1555710921614163989/1555715655112728576.m3u8",
+              "url": "quests/1555710921614163989/1558259095415300116.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1555710921614163989/1555716006972755998.jpg"
+              "thumbnail": "quests/1555710921614163989/1559234680979722401.jpg"
             }
           },
           "messages": {
@@ -99809,7 +99810,7 @@
             }
           },
           "orb_quantity": 200,
-          "premium_orb_quantity": null
+          "premium_orb_quantity": 240
         }
       ],
       "rewards_expire_at": "2026-11-18T00:00:00+00:00",
@@ -99821,7 +99822,7 @@
     "cta_config": {
       "link": "https://www.disneyplus.com/browse/entity-8744ec55-8d14-4631-99b4-c889a2d6013f",
       "button_label": "Learn More",
-      "subtitle": "Stream VisionQuest on October 14, only on Disney+"
+      "subtitle": "Stream VisionQuest this Wednesday, only on Disney+"
     }
   },
   "1554683719422316636": {
