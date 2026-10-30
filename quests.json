@@ -102430,7 +102430,7 @@
     },
     "messages": {
       "quest_name": "The Mosquito Bowl",
-      "game_title": "The Mosquito Bowl | In theaters October 30",
+      "game_title": "The Mosquito Bowl | Now playing in theaters",
       "game_publisher": "Netflix"
     },
     "task_config_v2": {
@@ -102440,22 +102440,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1556747190242779347/1559691764065894512_1080.mp4",
+              "url": "quests/1556747190242779347/1565100076303515811_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+              "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
             },
             "video_low_res": {
-              "url": "quests/1556747190242779347/1559691764065894512_720.mp4",
+              "url": "quests/1556747190242779347/1565100076303515811_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+              "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
             },
             "video_hls": {
-              "url": "quests/1556747190242779347/1559691764065894512.m3u8",
+              "url": "quests/1556747190242779347/1565100076303515811.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+              "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
             }
           },
           "messages": {
@@ -102467,22 +102467,22 @@
           "target": 29,
           "assets": {
             "video": {
-              "url": "quests/1556747190242779347/1559691764636590141_1080.mp4",
+              "url": "quests/1556747190242779347/1565100076282417183_1080.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+              "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
             },
             "video_low_res": {
-              "url": "quests/1556747190242779347/1559691764636590141_720.mp4",
+              "url": "quests/1556747190242779347/1565100076282417183_720.mp4",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+              "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
             },
             "video_hls": {
-              "url": "quests/1556747190242779347/1559691764636590141.m3u8",
+              "url": "quests/1556747190242779347/1565100076282417183.m3u8",
               "width": 1080,
               "height": 1920,
-              "thumbnail": "quests/1556747190242779347/1559691828339408946.jpg"
+              "thumbnail": "quests/1556747190242779347/1559691828876288000.jpg"
             }
           },
           "messages": {
@@ -102518,7 +102518,7 @@
     "cta_config": {
       "link": "https://www.themosquitobowlfilm.com/",
       "button_label": "Get Tickets",
-      "subtitle": "The Mosquito Bowl | In theaters October 30"
+      "subtitle": "The Mosquito Bowl | Now playing in theaters"
     }
   },
   "1558112706446368769": {
@@ -103813,11 +103813,11 @@
       "name": "Once Human"
     },
     "assets": {
-      "hero": "quests/1554696065704529930/1561581743771754556.jpg",
-      "hero_video": "quests/1554696065704529930/1561577087075229696_720.mp4",
-      "quest_bar_hero_blurhash": "TdcJCoKAiotreJh2jsDiCDw=",
-      "quest_bar_hero": "quests/1554696065704529930/1561581743771754556.jpg",
-      "quest_bar_hero_video": "quests/1554696065704529930/1561577005755932732_720.mp4",
+      "hero": "quests/1554696065704529930/1565737636289585295.jpg",
+      "hero_video": "quests/1554696065704529930/1565737717067812884_720.mp4",
+      "quest_bar_hero_blurhash": "oecJGoSvdYaKenZ3CJesYLs=",
+      "quest_bar_hero": "quests/1554696065704529930/1565737636289585295.jpg",
+      "quest_bar_hero_video": "quests/1554696065704529930/1565737497793798214_720.mp4",
       "game_tile": "PLACEHOLDER",
       "logotype": "PLACEHOLDER",
       "game_tile_light": "quests/1554696065704529930/1561576918782836796.png",
