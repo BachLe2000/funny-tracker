@@ -106294,7 +106294,7 @@
     },
     "messages": {
       "quest_name": "The Rings of Power",
-      "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+      "game_title": "The Rings of Power S3 is now streaming on Prime.",
       "game_publisher": "Amazon Prime Video"
     },
     "task_config_v2": {
@@ -106304,21 +106304,21 @@
           "target": 123,
           "assets": {
             "video": {
-              "url": "quests/1507498167833460806/1564812916442533918_1080.mp4",
+              "url": "quests/1507498167833460806/1569826237549908088_1080.mp4",
               "width": 1920,
-              "height": 1080,
+              "height": 804,
               "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
             },
             "video_low_res": {
-              "url": "quests/1507498167833460806/1564812916442533918_720.mp4",
+              "url": "quests/1507498167833460806/1569826237549908088_720.mp4",
               "width": 1920,
-              "height": 1080,
+              "height": 804,
               "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
             },
             "video_hls": {
-              "url": "quests/1507498167833460806/1564812916442533918.m3u8",
+              "url": "quests/1507498167833460806/1569826237549908088.m3u8",
               "width": 1920,
-              "height": 1080,
+              "height": 804,
               "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
             }
           },
@@ -106331,21 +106331,21 @@
           "target": 123,
           "assets": {
             "video": {
-              "url": "quests/1507498167833460806/1564812916232945774_1080.mp4",
-              "width": 1080,
-              "height": 1920,
+              "url": "quests/1507498167833460806/1569826237491445761_1080.mp4",
+              "width": 607,
+              "height": 1080,
               "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
             },
             "video_low_res": {
-              "url": "quests/1507498167833460806/1564812916232945774_720.mp4",
-              "width": 1080,
-              "height": 1920,
+              "url": "quests/1507498167833460806/1569826237491445761_720.mp4",
+              "width": 607,
+              "height": 1080,
               "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
             },
             "video_hls": {
-              "url": "quests/1507498167833460806/1564812916232945774.m3u8",
-              "width": 1080,
-              "height": 1920,
+              "url": "quests/1507498167833460806/1569826237491445761.m3u8",
+              "width": 607,
+              "height": 1080,
               "thumbnail": "quests/1507498167833460806/1564443308346834994.jpg"
             }
           },
@@ -106384,8 +106384,8 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.amazon.com/gp/video/detail/B0H9PFG4BM",
-      "button_label": "Watch More",
-      "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+      "button_label": "Watch Now",
+      "subtitle": "The Rings of Power S3 is now streaming on Prime."
     }
   },
   "1562305244216430702": {
@@ -108581,7 +108581,7 @@
     },
     "messages": {
       "quest_name": "Forge The Ring",
-      "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+      "game_title": "The Rings of Power S3 is now streaming on Prime.",
       "game_publisher": "Amazon Prime Video"
     },
     "task_config_v2": {
@@ -108628,8 +108628,8 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
-      "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+      "button_label": "Watch Now",
+      "subtitle": "The Rings of Power S3 is now streaming on Prime."
     }
   },
   "1567032464046559233": {
@@ -108664,7 +108664,7 @@
     },
     "messages": {
       "quest_name": "Forge The Ring",
-      "game_title": "The Rings of Power S3 premieres Nov 11 on Prime",
+      "game_title": "The Rings of Power S3 is now streaming on Prime.",
       "game_publisher": "Amazon Prime Video"
     },
     "task_config_v2": {
@@ -108711,8 +108711,8 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
-      "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime."
+      "button_label": "Watch Now",
+      "subtitle": "The Rings of Power S3 is now streaming on Prime."
     }
   },
   "1567230969730179103": {
@@ -108794,7 +108794,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Nieuw seizoen - 11 november"
     }
   },
@@ -108877,7 +108877,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "The Rings of Power S3 premieres Nov 11 on Prime"
     }
   },
@@ -108960,7 +108960,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Nouvelle saison - 11 novembre"
     }
   },
@@ -109043,7 +109043,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Ny säsong – 11 november"
     }
   },
@@ -109126,7 +109126,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "http://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Nueva temporada - 11 de noviembre"
     }
   },
@@ -109209,7 +109209,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Nowy sezon – 11 listopada"
     }
   },
@@ -109292,7 +109292,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Neue Staffel - 11. November"
     }
   },
@@ -109375,7 +109375,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80://example.com/",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Nueva temporada - 11 de noviembre"
     }
   },
@@ -109458,7 +109458,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Nueva temporada - 11 de noviembre"
     }
   },
@@ -109541,7 +109541,7 @@
     "share_policy": "shareable_everywhere",
     "cta_config": {
       "link": "https://www.primevideo.com/detail/gti/amzn1.dv.gti.8c43a805-f19b-4642-b474-7494b7759e80",
-      "button_label": "Watch More",
+      "button_label": "Watch Now",
       "subtitle": "Nuova stagione - 11 novembre"
     }
   },
