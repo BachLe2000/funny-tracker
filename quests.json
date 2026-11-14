@@ -114621,7 +114621,7 @@
       15
     ],
     "application": {
-      "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL",
+      "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL?source_code=DGBS30DTRIAL5381019262611",
       "id": "1557799582732124221",
       "name": "[Prod] Astronaut"
     },
@@ -114689,7 +114689,7 @@
     },
     "share_policy": "shareable_everywhere",
     "cta_config": {
-      "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL",
+      "link": "https://www.audible.com/pd/Exoplanet-Audiobook/B0HDFGKSTL?source_code=DGBS30DTRIAL5381019262611",
       "button_label": "Listen Now",
       "subtitle": "Listen to 'Exoplanet' now on Audible"
     }
