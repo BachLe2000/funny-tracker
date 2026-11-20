@@ -112911,7 +112911,7 @@
     },
     "messages": {
       "quest_name": "The Hunger Games Video",
-      "game_title": "IN THEATERS TOMORROW",
+      "game_title": "NOW PLAYING IN THEATERS GET TICKETS",
       "game_publisher": "Lionsgate"
     },
     "task_config_v2": {
@@ -112924,19 +112924,19 @@
               "url": "quests/1567441774820065380/1567448750396280842_1080.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
+              "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
             },
             "video_low_res": {
               "url": "quests/1567441774820065380/1567448750396280842_720.mp4",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
+              "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
             },
             "video_hls": {
               "url": "quests/1567441774820065380/1567448750396280842.m3u8",
               "width": 1920,
               "height": 1080,
-              "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
+              "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
             }
           },
           "messages": {
@@ -112951,19 +112951,19 @@
               "url": "quests/1567441774820065380/1570882628377251842_1080.mp4",
               "width": 607,
               "height": 1080,
-              "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
+              "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
             },
             "video_low_res": {
               "url": "quests/1567441774820065380/1570882628377251842_720.mp4",
               "width": 607,
               "height": 1080,
-              "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
+              "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
             },
             "video_hls": {
               "url": "quests/1567441774820065380/1570882628377251842.m3u8",
               "width": 607,
               "height": 1080,
-              "thumbnail": "quests/1567441774820065380/1567443299915145306.png"
+              "thumbnail": "quests/1567441774820065380/1567443299784990861.png"
             }
           },
           "messages": {
@@ -112988,7 +112988,7 @@
               "0": "PLACEHOLDER"
             }
           },
-          "expires_at": "2026-12-23T01:00:00+00:00",
+          "expires_at": "2027-01-23T01:00:00+00:00",
           "expires_at_premium": null,
           "expiration_mode": 3
         }
@@ -113002,7 +113002,7 @@
     "cta_config": {
       "link": "https://www.fandango.com/the-hunger-games-sunrise-on-the-reaping-2026-240138/movie-overview?cmp=ST_Lionsgate:HungerGamesSOTR:Discord",
       "button_label": "Get Tickets",
-      "subtitle": "IN THEATERS TOMORROW"
+      "subtitle": "NOW PLAYING IN THEATERS GET TICKETS"
     }
   },
   "1556298947713179718": {
